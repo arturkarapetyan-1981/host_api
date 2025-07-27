@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "slug": "sunny-hotel-limassol",
+    "image": "/hotels/sunny-hotel.jpg",
+    "city": "Limassol",
+    "translations": {
+      "en": {
+        "name": "Sunny Hotel",
+        "shortDescription": "A luxury hotel near the beach.",
+        "description": "Enjoy your stay at Sunny Hotel with sea views, spa, and world-class service."
+      },
+      "gr": {
+        "name": "Ξενοδοχείο Sunny",
+        "shortDescription": "Ένα πολυτελές ξενοδοχείο κοντά στην παραλία.",
+        "description": "Απολαύστε τη διαμονή σας με θέα στη θάλασσα, σπα και άριστη εξυπηρέτηση."
+      },
+      "ru": {
+        "name": "Санни Отель",
+        "shortDescription": "Роскошный отель у моря.",
+        "description": "Наслаждайтесь пребыванием с видом на море, спа и первоклассным сервисом."
+      }
+    }
+  }
+]
