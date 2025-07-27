@@ -1,0 +1,485 @@
+[
+  {
+    "id": 1,
+    "slug": "aphrodite-i-cruises-trip-to-blue-lagoon-turtle-cove",
+    "image": "/tours/tour-1.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "'Aphrodite I Cruises' trip to Blue Lagoon & Turtle Cove",
+        "shortDescription": "Aphrodite Cruises offers a Protaras trip to Blue Lagoon and Turtle Cove with swimming and views.",
+        "description": "Experience an unforgettable Aphrodite Cruises trip from Protaras to the famous Blue Lagoon and Turtle Cove. Enjoy crystal-clear waters perfect for swimming and snorkeling, relax on deck under the Mediterranean sun, and admire the breathtaking coastal scenery. A must-do excursion combining relaxation, adventure, and stunning natural beauty in Cyprus."
+      },
+      "gr": {
+        "name": "Ταξίδι με την «Κρουαζιέρα I Αφροδίτη» στη Γαλάζια Λιμνοθάλασσα και τον Κόλπο των Χελώνων",
+        "shortDescription": "Η Aphrodite Cruises προσφέρει εκδρομή από τον Πρωταρά στη Μπλε Λιμνοθάλασσα και το Turtle Cove με κολύμπι και θέα.",
+        "description": "Ζήστε μια αξέχαστη εκδρομή με την Aphrodite Cruises από τον Πρωταρά προς τη διάσημη Μπλε Λιμνοθάλασσα και το Turtle Cove. Απολαύστε τα καταγάλανα νερά για κολύμπι και κατάδυση, χαλαρώστε στο κατάστρωμα κάτω από τον μεσογειακό ήλιο και θαυμάστε την εντυπωσιακή παραθαλάσσια θέα. Μια μοναδική εμπειρία χαλάρωσης και φυσικής ομορφιάς."
+      },
+      "ru": {
+        "name": "Круиз «Aphrodite I Cruises» в Голубую лагуну и Черепашью бухту",
+        "shortDescription": "Aphrodite Cruises организует поездку из Протараса в Голубую лагуну и Turtle Cove с купанием и видами.",
+        "description": "Отправьтесь в незабываемое путешествие с Aphrodite Cruises из Протараса в знаменитую Голубую лагуну и Turtle Cove. Наслаждайтесь кристально чистой водой, идеально подходящей для купания и сноркелинга, отдыхайте на палубе под средиземноморским солнцем и любуйтесь потрясающими прибрежными пейзажами. Экскурсия, объединяющая отдых, приключения и великолепную природу Кипра."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "slug": "blue-lagoon-akamas-bus-boat-tour-water-slide-paphos",
+    "image": "/tours/tour-2.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Blue Lagoon (Akamas) Bus & Boat Tour with Water Slide from Paphos",
+        "shortDescription": "Blue Lagoon Akamas tour from Paphos combines bus and boat trip with fun water slide.",
+        "description": "Discover Akamas’ stunning coastline on a Blue Lagoon tour from Paphos. Travel by bus through beautiful landscapes, then board a boat to crystal-clear waters. Enjoy swimming, snorkeling, and a fun water slide directly into the sea. A perfect blend of adventure, relaxation, and breathtaking natural scenery in Cyprus."
+      },
+      "gr": {
+        "name": "Γαλάζια Λιμνοθάλασσα (Ακάμας) Εκδρομή με λεωφορείο και σκάφος με νεροτσουλήθρα από την Πάφο",
+        "shortDescription": "Η εκδρομή στη Μπλε Λιμνοθάλασσα Ακάμα από Πάφο συνδυάζει λεωφορείο, βάρκα και τσουλήθρα νερού.",
+        "description": "Ανακαλύψτε την εντυπωσιακή ακτογραμμή του Ακάμα με εκδρομή στη Μπλε Λιμνοθάλασσα από την Πάφο. Ταξιδέψτε με λεωφορείο μέσα από όμορφα τοπία και επιβιβαστείτε σε βάρκα προς τα καταγάλανα νερά. Απολαύστε κολύμπι, κατάδυση και μια διασκεδαστική νεροτσουλήθρα. Ένας ιδανικός συνδυασμός περιπέτειας, χαλάρωσης και φυσικής ομορφιάς στην Κύπρο."
+      },
+      "ru": {
+        "name": "Автобусно-лодочная экскурсия в Голубую лагуну (Акамас) с водной горкой из Пафоса",
+        "shortDescription": "Тур в Голубую лагуну Акамас из Пафоса включает автобус, лодку и водную горку.",
+        "description": "Откройте для себя живописное побережье Акамас во время тура в Голубую лагуну из Пафоса. Поездка на автобусе через красивые пейзажи, затем круиз на лодке к прозрачным водам. Купание, сноркелинг и веселая водная горка прямо в море. Идеальное сочетание приключений, отдыха и великолепной природы Кипра."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "slug": "glass-bottom-boat-dolphin-cruise-blue-lagoon-turtle-cove",
+    "image": "/tours/tour-3.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "Glass Bottom Boat Dolphin Cruise to Blue Lagoon and Turtle Cove",
+        "shortDescription": "Glass bottom boat cruise to Blue Lagoon and Turtle Cove with dolphin watching and snorkeling.",
+        "description": "Enjoy a unique glass bottom boat cruise to the famous Blue Lagoon and Turtle Cove. Watch dolphins in their natural habitat, admire the underwater world through the boat’s glass panels, and swim or snorkel in crystal-clear waters. A perfect blend of marine adventure, relaxation, and scenic beauty."
+      },
+      "gr": {
+        "name": "Ταξίδι με την «Κρουαζιέρα Αφροδίτη» στη Γαλάζια Λιμνοθάλασσα και τον Κόλπο των Χελώνων",
+        "shortDescription": "Κρουαζιέρα με γυάλινο πάτο στη Μπλε Λιμνοθάλασσα και το Turtle Cove με δελφίνια.",
+        "description": "Απολαύστε μια μοναδική κρουαζιέρα με γυάλινο πάτο προς τη διάσημη Μπλε Λιμνοθάλασσα και το Turtle Cove. Παρακολουθήστε δελφίνια στο φυσικό τους περιβάλλον, θαυμάστε τον υποθαλάσσιο κόσμο μέσα από τα γυάλινα πάνελ και κολυμπήστε ή κάντε κατάδυση στα καταγάλανα νερά. Ένας ιδανικός συνδυασμός θαλάσσιας περιπέτειας και χαλάρωσης."
+      },
+      "ru": {
+        "name": "Круиз «Aphrodite Cruises» в Голубую лагуну и Черепашью бухту",
+        "shortDescription": "Прогулка на лодке с прозрачным дном в Голубую лагуну и Turtle Cove с дельфинами.",
+        "description": "Насладитесь уникальным круизом на лодке с прозрачным дном в знаменитую Голубую лагуну и Turtle Cove. Наблюдайте дельфинов в их естественной среде, любуйтесь подводным миром через стеклянные панели и купайтесь или занимайтесь сноркелингом в кристально чистых водах. Идеальное сочетание морского приключения, отдыха и красоты."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "slug": "cpt-marko-blue-lagoon-turtle-cruise",
+    "image": "/tours/tour-4.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "Cpt Marko - Blue Lagoon & Turtle Cruise with Optional Lunch",
+        "shortDescription": "Scenic cruise to Blue Lagoon and turtle spots, with swimming, snorkeling, and optional Cypriot lunch.",
+        "description": "Join Captain Marko for an unforgettable cruise to the Blue Lagoon and turtle bay. Enjoy crystal-clear waters, snorkeling, and swimming in stunning coastal spots. Choose to include a delicious traditional Cypriot lunch onboard. Perfect for families, couples, or solo travelers looking to relax and explore Cyprus by sea."
+      },
+      "gr": {
+        "name": "Cpt Marko - Κρουαζιέρα με Γαλάζια Λιμνοθάλασσα και Χελώνες με Προαιρετικό Γεύμα",
+        "shortDescription": "Κρουαζιέρα στη Γαλάζια Λιμνοθάλασσα με χελώνες, κολύμπι, μάσκα και προαιρετικό γεύμα.",
+        "description": "Ζήστε αξέχαστες στιγμές με τον Captain Marko σε μια κρουαζιέρα στη Γαλάζια Λιμνοθάλασσα και τον κόλπο με τις χελώνες. Κολυμπήστε, κάντε μάσκα και απολαύστε την επιλογή ενός κυπριακού παραδοσιακού γεύματος πάνω στο σκάφος. Ιδανικό για οικογένειες, ζευγάρια και ταξιδιώτες που αναζητούν χαλάρωση και εξερεύνηση."
+      },
+      "ru": {
+        "name": "Капитан Марко — круиз по Голубой лагуне и наблюдение за черепахами с дополнительным обедом",
+        "shortDescription": "Круиз к Голубой лагуне и черепахам, с купанием, сноркелингом и обедом по желанию.",
+        "description": "Отправьтесь с капитаном Марко в круиз к Голубой лагуне и бухте черепах. Наслаждайтесь купанием, сноркелингом и прозрачной водой. По желанию можно включить вкусный кипрский обед на борту. Отличный выбор для семей, пар и одиночек, желающих отдохнуть и открыть Кипр с моря."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "slug": "aphrodite-ii-lazy-day-cruise-blue-lagoon-turtle-cove-lunch",
+    "image": "/tours/tour-5.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "Aphrodite II - Lazy Day Cruise to Blue Lagoon & Turtle Cove with Lunch",
+        "shortDescription": "Relaxing cruise to Blue Lagoon & Turtle Cove with swimming, snorkeling, sunbathing, and a delicious lunch.",
+        "description": "Join the Aphrodite II for a relaxing lazy day cruise to the stunning Blue Lagoon and Turtle Cove. Enjoy crystal-clear waters for swimming and snorkeling, sunbathe on deck, and savor a freshly prepared lunch onboard. Perfect for couples, families, or friends seeking a peaceful escape on the Mediterranean Sea."
+      },
+      "gr": {
+        "name": "Aphrodite II - Χαλαρωτική Κρουαζιέρα στη Μπλε Λιμνοθάλασσα & Turtle Cove με Μεσημεριανό",
+        "shortDescription": "Χαλαρωτική κρουαζιέρα στη Μπλε Λιμνοθάλασσα & Turtle Cove με μπάνιο και μεσημεριανό.",
+        "description": "Απολαύστε μια ήρεμη κρουαζιέρα με το Aphrodite II στη μαγευτική Μπλε Λιμνοθάλασσα και στο Turtle Cove. Κολυμπήστε σε καταγάλανα νερά, χαλαρώστε στον ήλιο και απολαύστε φρέσκο μεσημεριανό γεύμα στο πλοίο. Ιδανικό για ζευγάρια, οικογένειες ή φίλους που αναζητούν μια ήσυχη απόδραση στη Μεσόγειο."
+      },
+      "ru": {
+        "name": "Aphrodite II — Расслабляющий Круиз к Голубой Лагуне и Бухте Черепах с Обедом",
+        "shortDescription": "Расслабляющий круиз к Голубой лагуне и Бухте Черепах с купанием и обедом.",
+        "description": "Отправьтесь в расслабляющий круиз на Aphrodite II к Голубой лагуне и Бухте Черепах. Наслаждайтесь купанием в кристально чистой воде, загорайте на палубе и отведайте свежеприготовленный обед. Идеально подходит для пар, семей или друзей, ищущих спокойный отдых на Средиземном море."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "slug": "dream-luxury-yacht-protaras",
+    "image": "/tours/tour-6.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "DREAM - Luxury Yacht - HUGE SLIDE - BBQ meal - 1 free drink",
+        "shortDescription": "Luxury yacht in Protaras with huge slide, BBQ meal, and a free drink—pure fun!",
+        "description": "Set sail from Protaras aboard the DREAM luxury yacht. Enjoy the thrill of the giant slide into the crystal-clear sea, savor a freshly grilled BBQ meal, and sip on a complimentary drink. Perfect for a fun-filled day with family or friends, discovering the beauty of the Cyprus coastline."
+      },
+      "gr": {
+        "name": "ΟΝΕΙΡΟ - Πολυτελές Γιοτ - ΤΕΡΑΣΤΙΑ ΤΣΟΥΛΗΘΡΑ - Γεύμα BBQ - 1 δωρεάν ποτό",
+        "shortDescription": "Πολυτελές γιοτ στον Πρωταρά με τεράστια τσουλήθρα, BBQ γεύμα και δωρεάν ποτό!",
+        "description": "Αναχωρήστε από τον Πρωταρά με το πολυτελές γιοτ DREAM. Δοκιμάστε την τεράστια τσουλήθρα στη θάλασσα, απολαύστε φρέσκο BBQ γεύμα και ένα δωρεάν ποτό. Ιδανικό για μια διασκεδαστική μέρα με φίλους ή οικογένεια, εξερευνώντας την ομορφιά της κυπριακής ακτογραμμής."
+      },
+      "ru": {
+        "name": "МЕЧТА - Роскошная яхта - ОГРОМНАЯ ГОРКА - Барбекю - 1 бесплатный напиток",
+        "shortDescription": "Роскошная яхта в Протарасе, гигантская горка, барбекю и бесплатный напиток — полный отдых!",
+        "description": "Отправьтесь из Протараса на роскошной яхте DREAM. Окунитесь в море с гигантской горки, насладитесь свежим барбекю и бесплатным напитком. Идеально для веселого дня с семьей или друзьями, чтобы открыть для себя красоты побережья Кипра."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "slug": "atlantis-turtle-cruise-snorkelling-paphos",
+    "image": "/tours/tour-7.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Atlantis Turtle Watching Cruise & Snorkelling Adventure in Paphos",
+        "shortDescription": "Turtle watching cruise in Paphos with snorkelling adventure—explore marine life in crystal-clear waters!",
+        "description": "Join the Atlantis cruise in Paphos for a thrilling turtle watching and snorkelling adventure. Explore the clear blue waters of the Mediterranean, home to sea turtles and vibrant marine life. This family-friendly experience combines education and excitement, offering unforgettable memories in one of Cyprus’s most beautiful coastal regions."
+      },
+      "gr": {
+        "name": "Κρουαζιέρα Atlantis για Παρατήρηση Χελωνών & Περιπέτεια Κατάδυσης στον Πάφο",
+        "shortDescription": "Κρουαζιέρα στον Πάφο για παρατήρηση χελωνών και κατάδυση—ανακαλύψτε τη θαλάσσια ζωή!",
+        "description": "Ελάτε στην κρουαζιέρα Atlantis στον Πάφο για μια συναρπαστική εμπειρία παρατήρησης χελωνών και κατάδυσης. Εξερευνήστε τα γαλάζια νερά της Μεσογείου και γνωρίστε τη θαλάσσια ζωή. Ιδανική για οικογένειες και λάτρεις της φύσης, προσφέρει μοναδικές στιγμές στις υπέροχες ακτές της Κύπρου."
+      },
+      "ru": {
+        "name": "Круиз Atlantis: Наблюдение за Черепахами и Приключение со Сноркелингом в Пафосе",
+        "shortDescription": "Круиз в Пафосе с наблюдением за черепахами и сноркелингом — удивительный подводный мир!",
+        "description": "Присоединяйтесь к круизу Atlantis в Пафосе и отправьтесь на захватывающее приключение: сноркелинг и наблюдение за морскими черепахами. Исследуйте кристально чистые воды Средиземного моря, наполненные жизнью. Идеально подходит для семей и любителей природы, дарит незабываемые впечатления на живописном побережье Кипра."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "slug": "private-diving-zenobia-wreck-larnaka",
+    "image": "/tours/tour-8.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "Private Diving at Zenobia Wreck in Larnaka",
+        "shortDescription": "Explore the legendary Zenobia wreck in Larnaka with a private diving experience—thrilling and unforgettable!",
+        "description": "Dive privately into the world-famous Zenobia wreck off the coast of Larnaka. This top-tier experience offers certified divers a guided underwater tour of the massive sunken ferry, teeming with marine life. Ideal for advanced divers seeking adventure, history, and one of the best wreck dives in the Mediterranean."
+      },
+      "gr": {
+        "name": "Ιδιωτική Κατάδυση στο Ναυάγιο Ζηνοβία στη Λάρνακα",
+        "shortDescription": "Ανακαλύψτε το θρυλικό ναυάγιο Ζηνοβία στη Λάρνακα με ιδιωτική κατάδυση—μοναδική εμπειρία!",
+        "description": "Καταδυθείτε ιδιωτικά στο διάσημο ναυάγιο Ζηνοβία ανοιχτά της Λάρνακας. Αυτή η εμπειρία για πιστοποιημένους δύτες περιλαμβάνει καθοδηγούμενη ξενάγηση στο τεράστιο βυθισμένο φέρι, γεμάτο θαλάσσια ζωή. Ιδανική επιλογή για προχωρημένους δύτες που αναζητούν περιπέτεια, ιστορία και μια από τις κορυφαίες καταδύσεις ναυαγίων στη Μεσόγειο."
+      },
+      "ru": {
+        "name": "Приватное Погружение к Затонувшему Кораблю Зенобия в Ларнаке",
+        "shortDescription": "Исследуйте легендарное затонувшее судно Зенобия в Ларнаке с приватным дайвингом — незабываемо!",
+        "description": "Совершите приватное погружение к легендарному затонувшему парому Зенобия у берегов Ларнаки. Это эксклюзивное приключение для сертифицированных дайверов включает экскурсию по огромному судну, покрытому морской жизнью. Идеально для опытных дайверов, ищущих приключение, историю и один из лучших затонувших объектов Средиземного моря."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "slug": "larnaca-highlights-lefkara-nicosia-tour-from-paphos",
+    "image": "/tours/tour-9.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Larnaca Highlights with Visit to Lefkara and Nicosia from Paphos",
+        "shortDescription": "Explore Larnaca’s highlights, visit traditional Lefkara and historic Nicosia on a day trip from Paphos.",
+        "description": "Enjoy a full-day excursion from Paphos to discover Cyprus’ cultural gems. Stroll through Larnaca’s charming streets, explore the famous Hala Sultan Tekke and Finikoudes promenade, visit the traditional village of Lefkara renowned for lace and silver, and experience Nicosia’s rich history. A perfect mix of culture, heritage, and sightseeing."
+      },
+      "gr": {
+        "name": "Αξιοθέατα Λάρνακας με Επίσκεψη σε Λεύκαρα και Λευκωσία από Πάφο",
+        "shortDescription": "Ανακαλύψτε τα αξιοθέατα της Λάρνακας, επισκεφθείτε τα παραδοσιακά Λεύκαρα και τη Λευκωσία σε ημερήσια εκδρομή.",
+        "description": "Απολαύστε μια ολοήμερη εκδρομή από την Πάφο για να ανακαλύψετε τα πολιτιστικά στολίδια της Κύπρου. Περιπλανηθείτε στους γραφικούς δρόμους της Λάρνακας, επισκεφθείτε το Χαλά Σουλτάν Τεκκέ και την προκυμαία των Φοινικούδων, γνωρίστε τα παραδοσιακά Λεύκαρα διάσημα για τα κεντήματα και το ασήμι και ζήστε την ιστορία της Λευκωσίας."
+      },
+      "ru": {
+        "name": "Достопримечательности Ларнаки с посещением Лефкары и Никосии из Пафоса",
+        "shortDescription": "Исследуйте достопримечательности Ларнаки, посетите традиционную Лефкару и историческую Никосию в однодневной поездке из Пафоса.",
+        "description": "Отправьтесь в однодневную экскурсию из Пафоса, чтобы открыть культурные жемчужины Кипра. Прогуляйтесь по уютным улицам Ларнаки, посетите знаменитую мечеть Хала Султан Текке и набережную Финикудес, загляните в традиционную деревню Лефкара, известную кружевом и серебром, и ощутите богатую историю Никосии. Идеальный маршрут для любителей культуры и достопримечательностей."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "slug": "paphos-aphrodite-waterpark-entrance-ticket",
+    "image": "/tours/tour-10.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Paphos Aphrodite Waterpark Entrance Ticket",
+        "shortDescription": "Enjoy a full day of slides, pools, and fun at Paphos Aphrodite Waterpark.",
+        "description": "Spend an exciting day at Paphos Aphrodite Waterpark, one of Cyprus’ top attractions. Experience thrilling water slides, wave pools, and relaxing lazy rivers suitable for all ages. Perfect for families, friends, and couples seeking fun and refreshment under the Mediterranean sun. A must-visit destination for water adventure lovers."
+      },
+      "gr": {
+        "name": "Εισιτήριο Εισόδου στο Υδροπάρκο Αφροδίτη στην Πάφο",
+        "shortDescription": "Απολαύστε μια ολόκληρη μέρα με τσουλήθρες, πισίνες και διασκέδαση στο Υδροπάρκο Αφροδίτη.",
+        "description": "Περάστε μια συναρπαστική μέρα στο Υδροπάρκο Αφροδίτη στην Πάφο, ένα από τα κορυφαία αξιοθέατα της Κύπρου. Ζήστε έντονες τσουλήθρες, πισίνες με κύματα και χαλαρούς τεμπέλικους ποταμούς, κατάλληλα για όλες τις ηλικίες. Ιδανικό για οικογένειες, φίλους και ζευγάρια που αναζητούν διασκέδαση και δροσιά κάτω από τον μεσογειακό ήλιο."
+      },
+      "ru": {
+        "name": "Билет для входа в аквапарк «Афродита» в Пафосе",
+        "shortDescription": "Проведите целый день на горках, в бассейнах и развлечениях в аквапарке «Афродита».",
+        "description": "Проведите захватывающий день в аквапарке «Афродита» в Пафосе, одном из лучших развлечений Кипра. Испытайте головокружительные водные горки, бассейны с волнами и спокойные «ленивые» реки, подходящие для всех возрастов. Идеальное место для семей, друзей и пар, ищущих веселье и освежающий отдых под средиземноморским солнцем."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "slug": "cape-greco-blue-lagoon-ayia-napa-tour",
+    "image": "/tours/tour-11.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "Cape Greco Blue Lagoon and Ayia Napa Tour",
+        "shortDescription": "Discover Cape Greco, swim in the Blue Lagoon, and explore vibrant Ayia Napa in one trip.",
+        "description": "Enjoy a memorable day exploring Cape Greco’s dramatic sea cliffs and crystal waters. Swim in the famous Blue Lagoon, ideal for snorkeling and relaxing. Conclude your tour in lively Ayia Napa, known for its beautiful beaches, charming streets, and local culture. A perfect mix of nature, leisure, and sightseeing."
+      },
+      "gr": {
+        "name": "Εκδρομή στο Ακρωτήριο Γκρέκο, τη Μπλε Λιμνοθάλασσα και την Αγία Νάπα",
+        "shortDescription": "Ανακαλύψτε το Ακρωτήριο Γκρέκο, κολυμπήστε στη Μπλε Λιμνοθάλασσα και γνωρίστε την Αγία Νάπα σε μία εκδρομή.",
+        "description": "Απολαύστε μια αξέχαστη μέρα εξερευνώντας τους εντυπωσιακούς βράχους και τα κρυστάλλινα νερά του Ακρωτηρίου Γκρέκο. Κολυμπήστε στη διάσημη Μπλε Λιμνοθάλασσα, ιδανική για κατάδυση και χαλάρωση. Ολοκληρώστε την εκδρομή σας στην ζωντανή Αγία Νάπα, γνωστή για τις παραλίες, τους γραφικούς δρόμους και την τοπική κουλτούρα."
+      },
+      "ru": {
+        "name": "Тур к мысу Греко, Голубой лагуне и Айя-Напе",
+        "shortDescription": "Откройте мыс Греко, искупайтесь в Голубой лагуне и посетите яркую Айя-Напу за одну поездку.",
+        "description": "Проведите незабываемый день, исследуя впечатляющие скалы и прозрачные воды мыса Греко. Искупайтесь в знаменитой Голубой лагуне, идеально подходящей для сноркелинга и отдыха. Завершите поездку в оживлённой Айя-Напе, известной своими пляжами, уютными улочками и местной атмосферой. Отличное сочетание природы, релаксации и интересных впечатлений."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "slug": "yellow-submarine-swimming-cruise-unlimited-drinks",
+    "image": "/tours/tour-12.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "Yellow Submarine Swimming Cruise with Unlimited Drinks",
+        "shortDescription": "Enjoy a unique Yellow Submarine cruise, swim in crystal waters, and sip unlimited refreshing drinks.",
+        "description": "Embark on a fun Yellow Submarine cruise combining relaxation and adventure. Swim in crystal-clear Mediterranean waters, enjoy underwater views through observation windows, and take advantage of unlimited refreshing drinks on board. Perfect for families, couples, and friends seeking a memorable sea experience filled with leisure, swimming, and breathtaking scenery."
+      },
+      "gr": {
+        "name": "Κρουαζιέρα Κολύμβησης με το Κίτρινο Υποβρύχιο και Απεριόριστα Ποτά",
+        "shortDescription": "Απολαύστε μοναδική κρουαζιέρα με το Κίτρινο Υποβρύχιο, κολυμπήστε σε κρυστάλλινα νερά και πιείτε απεριόριστα ποτά.",
+        "description": "Ξεκινήστε μια διασκεδαστική κρουαζιέρα με το Κίτρινο Υποβρύχιο που συνδυάζει χαλάρωση και περιπέτεια. Κολυμπήστε στα κρυστάλλινα νερά της Μεσογείου, απολαύστε τον υποθαλάσσιο κόσμο μέσα από τα παράθυρα παρατήρησης και επωφεληθείτε από τα απεριόριστα δροσερά ποτά στο πλοίο. Ιδανική επιλογή για οικογένειες, ζευγάρια και φίλους."
+      },
+      "ru": {
+        "name": "Плавательная круизная прогулка на «Жёлтой подводной лодке» с безлимитными напитками",
+        "shortDescription": "Насладитесь уникальным круизом на «Жёлтой подводной лодке», купайтесь в чистейших водах и пейте безлимитные напитки.",
+        "description": "Отправьтесь в увлекательный круиз на «Жёлтой подводной лодке», совмещающий отдых и приключения. Купайтесь в кристально чистых водах Средиземного моря, наблюдайте подводный мир через специальные окна и наслаждайтесь безлимитными освежающими напитками на борту. Идеальный выбор для семей, пар и друзей, ищущих яркие морские впечатления."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "slug": "fun-fishing-relaxing-cruise-larnaca-bay",
+    "image": "/tours/tour-13.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "Fun Fishing & Relaxing Cruise at Larnaca Bay",
+        "shortDescription": "Enjoy a relaxing cruise in Larnaca Bay with fun fishing, swimming, and scenic coastal views.",
+        "description": "Set sail on a delightful cruise in Larnaca Bay that combines leisure and adventure. Try fun fishing in the Mediterranean, swim in crystal-clear waters, and admire Cyprus’ picturesque coastline. Perfect for families, couples, and friends seeking a laid-back yet memorable experience on the sea with stunning scenery."
+      },
+      "gr": {
+        "name": "Διασκεδαστική Ψαροτουφεκτική και Χαλαρωτική Κρουαζιέρα στον Κόλπο της Λάρνακας",
+        "shortDescription": "Απολαύστε χαλαρωτική κρουαζιέρα στον Κόλπο Λάρνακας με διασκεδαστικό ψάρεμα, κολύμπι και υπέροχη θέα.",
+        "description": "Ξεκινήστε μια υπέροχη κρουαζιέρα στον Κόλπο της Λάρνακας που συνδυάζει χαλάρωση και περιπέτεια. Δοκιμάστε διασκεδαστικό ψάρεμα στη Μεσόγειο, κολυμπήστε σε κρυστάλλινα νερά και θαυμάστε την ειδυλλιακή ακτογραμμή της Κύπρου. Ιδανική επιλογή για οικογένειες, ζευγάρια και φίλους που αναζητούν χαλαρή αλλά αξέχαστη εμπειρία στη θάλασσα."
+      },
+      "ru": {
+        "name": "Развлекательный рыболовный и расслабляющий круиз в бухте Ларнаки",
+        "shortDescription": "Насладитесь расслабляющим круизом в бухте Ларнаки с увлекательной рыбалкой, купанием и красивыми видами побережья.",
+        "description": "Отправьтесь в приятный круиз по бухте Ларнаки, совмещающий отдых и лёгкое приключение. Попробуйте увлекательную рыбалку в Средиземном море, искупайтесь в прозрачной воде и полюбуйтесь живописным побережьем Кипра. Отличный вариант для семей, пар и друзей, желающих провести спокойный, но запоминающийся день на море."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "slug": "limassol-cruise-terminal-traditional-modern-cyprus-tour",
+    "image": "/tours/tour-14.jpg",
+    "city": "Limassol",
+    "translations": {
+      "en": {
+        "name": "Limassol Cruise Terminal Traditional and Modern Cyprus Tour",
+        "shortDescription": "Discover Cyprus from Limassol Cruise Terminal, exploring traditional villages and modern city highlights in one tour.",
+        "description": "Start your journey from Limassol Cruise Terminal and experience the perfect blend of Cyprus’ past and present. Visit charming traditional villages with authentic architecture and crafts, then explore Limassol’s modern attractions, vibrant streets, and cultural landmarks. Ideal for travelers seeking both historical insight and contemporary city life in one trip."
+      },
+      "gr": {
+        "name": "Εκδρομή από τον Τερματικό Σταθμό Κρουαζιέρας Λεμεσού: Παραδοσιακή και Σύγχρονη Κύπροςv",
+        "shortDescription": "Ανακαλύψτε την Κύπρο από τον Τερματικό Λεμεσού, εξερευνώντας παραδοσιακά χωριά και σύγχρονα αξιοθέατα.",
+        "description": "Ξεκινήστε το ταξίδι σας από τον Τερματικό Σταθμό Κρουαζιέρας Λεμεσού και ζήστε τον ιδανικό συνδυασμό παρελθόντος και παρόντος της Κύπρου. Επισκεφθείτε γραφικά παραδοσιακά χωριά με αυθεντική αρχιτεκτονική και χειροτεχνίες και στη συνέχεια εξερευνήστε τα σύγχρονα αξιοθέατα της Λεμεσού, τους ζωντανούς δρόμους και τα πολιτιστικά της μνημεία."
+      },
+      "ru": {
+        "name": "Тур из круизного терминала Лимасола: традиционный и современный Кипр",
+        "shortDescription": "Исследуйте Кипр из круизного терминала Лимасола, посетив традиционные деревни и современные достопримечательности.",
+        "description": "Начните путешествие из круизного терминала Лимасола и откройте гармонию прошлого и настоящего Кипра. Посетите очаровательные традиционные деревни с аутентичной архитектурой и ремёслами, затем исследуйте современные достопримечательности Лимасола, оживлённые улицы и культурные памятники. Идеальный вариант для тех, кто хочет совместить историю и современную жизнь города в одном туре."
+      }
+    }
+  },
+  {
+    "id": 15,
+    "slug": "full-day-family-catamaran-cruise-limassol-lunch",
+    "image": "/tours/tour-15.jpg",
+    "city": "Limassol",
+    "translations": {
+      "en": {
+        "name": "Full-Day Family Catamaran Cruise from Limassol with Lunch",
+        "shortDescription": "Enjoy a full-day catamaran cruise from Limassol with swimming, sunbathing, and a delicious lunch.",
+        "description": "Set sail on a full-day family catamaran cruise from Limassol, perfect for relaxation and fun. Swim in crystal-clear waters, sunbathe on spacious decks, and savor a freshly prepared lunch on board. Ideal for families seeking a memorable sea adventure filled with comfort, leisure, and stunning Mediterranean scenery."
+      },
+      "gr": {
+        "name": "Ολοήμερη Οικογενειακή Κρουαζιέρα με Καταμαράν από τη Λεμεσό με Γεύμα",
+        "shortDescription": "Απολαύστε ολοήμερη κρουαζιέρα με καταμαράν από τη Λεμεσό με κολύμπι, ηλιοθεραπεία και νόστιμο γεύμα.",
+        "description": "Ξεκινήστε μια ολοήμερη οικογενειακή κρουαζιέρα με καταμαράν από τη Λεμεσό, ιδανική για χαλάρωση και διασκέδαση. Κολυμπήστε σε κρυστάλλινα νερά, κάντε ηλιοθεραπεία στα άνετα καταστρώματα και απολαύστε ένα φρεσκομαγειρεμένο γεύμα στο πλοίο. Ιδανική επιλογή για οικογένειες που αναζητούν αξέχαστη θαλάσσια εμπειρία με άνεση και υπέροχη μεσογειακή θέα."
+      },
+      "ru": {
+        "name": "Однодневный семейный круиз на катамаране из Лимасола с обедом",
+        "shortDescription": "Проведите целый день на катамаране из Лимасола с купанием, загаром и вкусным обедом.",
+        "description": "Отправьтесь в однодневный семейный круиз на катамаране из Лимасола, идеальный для отдыха и развлечений. Купайтесь в кристально чистых водах, загорайте на просторных палубах и наслаждайтесь свежеприготовленным обедом на борту. Отличный вариант для семей, желающих провести незабываемый день на море с комфортом и красивыми видами Средиземного моря."
+      }
+    }
+  },
+  {
+    "id": 16,
+    "slug": "best-troodos-mountains-villages-tour-limassol",
+    "image": "/tours/tour-16.jpg",
+    "city": "Limassol",
+    "translations": {
+      "en": {
+        "name": "Best of Troodos Mountains & Villages Tour from Limassol",
+        "shortDescription": "Explore Troodos Mountains and traditional villages from Limassol, discovering nature, culture, and authentic Cypriot life.",
+        "description": "Discover the beauty of the Troodos Mountains on a full-day tour from Limassol. Visit charming villages, admire Byzantine monasteries, taste local delicacies, and enjoy breathtaking mountain scenery. This tour perfectly combines cultural heritage, authentic Cypriot traditions, and natural landscapes, offering a memorable experience away from the bustling coastal cities."
+      },
+      "gr": {
+        "name": "Εκδρομή «Τα Καλύτερα των Ορεινών Χωριών και του Τροόδους» από τη Λεμεσό",
+        "shortDescription": "Εξερευνήστε το Τρόοδος και τα παραδοσιακά χωριά από Λεμεσό, ανακαλύπτοντας φύση και κουλτούρα.",
+        "description": "Ανακαλύψτε την ομορφιά του Τροόδους σε μια ολοήμερη εκδρομή από τη Λεμεσό. Επισκεφθείτε γραφικά χωριά, θαυμάστε βυζαντινά μοναστήρια, δοκιμάστε τοπικές λιχουδιές και απολαύστε μαγευτικά ορεινά τοπία. Η εκδρομή συνδυάζει πολιτιστική κληρονομιά, αυθεντικές κυπριακές παραδόσεις και φυσική ομορφιά, προσφέροντας μια αξέχαστη εμπειρία μακριά από τις πολυσύχναστες παραλιακές πόλεις."
+      },
+      "ru": {
+        "name": "Тур «Лучшее из гор Троодос и деревень» из Лимасола",
+        "shortDescription": "Исследуйте горы Троодос и традиционные деревни из Лимасола, открывая природу, культуру и кипрский колорит.",
+        "description": "Откройте для себя красоту гор Троодос во время однодневного тура из Лимасола. Посетите уютные деревни, полюбуйтесь византийскими монастырями, попробуйте местные деликатесы и насладитесь потрясающими горными пейзажами. Тур сочетает культурное наследие, кипрские традиции и природу, предлагая незабываемый отдых вдали от шумных прибрежных городов."
+      }
+    }
+  },
+  {
+    "id": 17,
+    "slug": "3-hour-nicosia-segway-tour",
+    "image": "/tours/tour-17.jpg",
+    "city": "Nicosia",
+    "translations": {
+      "en": {
+        "name": "3-Hour Nicosia Segway Tour",
+        "shortDescription": "Explore Nicosia’s historic landmarks and vibrant streets effortlessly on a fun, guided 3-hour Segway tour.",
+        "description": "Glide through the heart of Nicosia on a guided 3-hour Segway tour. Discover ancient city walls, charming neighborhoods, and cultural landmarks while effortlessly riding. Learn fascinating stories from your guide, enjoy photo stops, and experience the perfect mix of history, modern life, and fun exploration."
+      },
+      "gr": {
+        "name": "Τρίωρη Περιήγηση με Segway στη Λευκωσία",
+        "shortDescription": "Εξερευνήστε τα ιστορικά μνημεία και τους ζωντανούς δρόμους της Λευκωσίας με τρίωρη ξενάγηση Segway.",
+        "description": "Περιηγηθείτε στο κέντρο της Λευκωσίας με μια τρίωρη ξενάγηση Segway. Ανακαλύψτε τα αρχαία τείχη, τις γραφικές γειτονιές και τα πολιτιστικά μνημεία, οδηγώντας με άνεση. Μάθετε ενδιαφέρουσες ιστορίες από τον ξεναγό σας, κάντε στάσεις για φωτογραφίες και ζήστε τον ιδανικό συνδυασμό ιστορίας, σύγχρονης ζωής και διασκέδασης."
+      },
+      "ru": {
+        "name": "3-часовой тур на сегвее по Никосии",
+        "shortDescription": "Исследуйте исторические достопримечательности и оживлённые улицы Никосии на увлекательном трёхчасовом туре на сегвее.",
+        "description": "Прокатитесь по центру Никосии в сопровождении гида на трёхчасовом туре на сегвее. Откройте древние городские стены, уютные кварталы и культурные достопримечательности, наслаждаясь лёгкой поездкой. Слушайте интересные рассказы, делайте фотопаузы и ощутите идеальное сочетание истории, современной атмосферы и увлекательного исследования."
+      }
+    }
+  },
+  {
+    "id": 18,
+    "slug": "explore-lefkara-nicosia",
+    "image": "/tours/tour-18.jpg",
+    "city": "Nicosia",
+    "translations": {
+      "en": {
+        "name": "Explore Lefkara & Nicosia",
+        "shortDescription": "Discover traditional Lefkara village and historic Nicosia, combining Cypriot culture, crafts, and city exploration in one trip.",
+        "description": "Embark on a cultural journey through Cyprus. Visit Lefkara, a village famous for handmade lace and silverwork, and stroll its charming streets. Continue to Nicosia, Europe’s last divided capital, rich in history, architecture, and local markets. A perfect mix of tradition, heritage, and city exploration in one unforgettable tour."
+      },
+      "gr": {
+        "name": "Εξερευνήστε τη Λεύκαρα και τη Λευκωσία",
+        "shortDescription": "Ανακαλύψτε το παραδοσιακό χωριό Λεύκαρα και τη Λευκωσία, συνδυάζοντας κυπριακή κουλτούρα και περιήγηση πόλης.",
+        "description": "Ξεκινήστε ένα πολιτιστικό ταξίδι στην Κύπρο. Επισκεφθείτε τη Λεύκαρα, γνωστή για τα χειροποίητα κεντήματα και τα ασημικά της, και περιπλανηθείτε στους γραφικούς δρόμους της. Συνεχίστε στη Λευκωσία, την τελευταία διχοτομημένη πρωτεύουσα της Ευρώπης, γεμάτη ιστορία, αρχιτεκτονική και τοπικές αγορές. Ένας ιδανικός συνδυασμός παράδοσης και αστικής εξερεύνησης."
+      },
+      "ru": {
+        "name": "Откройте для себя Лефкару и Никосию",
+        "shortDescription": "Исследуйте традиционную деревню Лефкара и историческую Никосию, сочетая кипрскую культуру, ремёсла и прогулку по городу.",
+        "description": "Отправьтесь в культурное путешествие по Кипру. Посетите деревню Лефкара, известную своими кружевами и серебряными изделиями, прогуляйтесь по её уютным улочкам. Затем откройте Никосию — последнюю разделённую столицу Европы с богатой историей, архитектурой и рынками. Отличное сочетание традиций, наследия и городской атмосферы в одном незабываемом туре."
+      }
+    }
+  },
+  {
+    "id": 19,
+    "slug": "private-photo-session-local-photographer-protaras",
+    "image": "/tours/tour-19.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "Private Photo Session with a Local Photographer in Protaras",
+        "shortDescription": "Capture unforgettable memories in Protaras with a professional local photographer during a personalized private session.",
+        "description": "Create timeless memories in Protaras with a private photo session guided by a skilled local photographer. Choose beautiful seaside locations, capture natural moments, and receive professionally edited photos. Perfect for couples, families, or solo travelers who want unique, high-quality images from their Cyprus vacation."
+      },
+      "gr": {
+        "name": "Ιδιωτική Φωτογράφηση με Τοπικό Φωτογράφο στον Πρωταρά",
+        "shortDescription": "Αποτυπώστε αξέχαστες στιγμές στον Πρωταρά με επαγγελματία τοπικό φωτογράφο σε ιδιωτική φωτογράφηση.",
+        "description": "Δημιουργήστε διαχρονικές αναμνήσεις στον Πρωταρά με μια ιδιωτική φωτογράφηση από έμπειρο τοπικό φωτογράφο. Επιλέξτε όμορφες παραθαλάσσιες τοποθεσίες, αποτυπώστε φυσικές στιγμές και λάβετε επαγγελματικά επεξεργασμένες φωτογραφίες. Ιδανικό για ζευγάρια, οικογένειες ή μοναχικούς ταξιδιώτες που θέλουν μοναδικές και ποιοτικές εικόνες από τις διακοπές τους στην Κύπρο."
+      },
+      "ru": {
+        "name": "Частная фотосессия с местным фотографом в Протарасе",
+        "shortDescription": "Сохраните незабываемые моменты в Протарасе с профессиональным местным фотографом во время личной фотосессии.",
+        "description": "Создайте незабываемые воспоминания в Протарасе на частной фотосессии с опытным местным фотографом. Выберите красивые прибрежные локации, запечатлейте естественные моменты и получите профессионально обработанные снимки. Идеально для пар, семей или индивидуальных путешественников, которые хотят увезти уникальные и качественные фотографии с отдыха на Кипре."
+      }
+    }
+  },
+  {
+    "id": 20,
+    "slug": "ayia-napa-premium-catamaran-cruise-blue-lagoon-lunch",
+    "image": "/tours/tour-20.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "Ayia Napa Premium Catamaran Cruise to Blue Lagoon with Lunch",
+        "shortDescription": "Enjoy a luxury catamaran cruise from Ayia Napa to Blue Lagoon with swimming, sunbathing, and lunch.",
+        "description": "Sail on a premium catamaran from Ayia Napa to the famous Blue Lagoon. Swim in crystal-clear waters, sunbathe on spacious decks, and enjoy a freshly prepared lunch onboard. This relaxing and scenic cruise offers the perfect combination of comfort, leisure, and breathtaking Mediterranean views for families, couples, and groups."
+      },
+      "gr": {
+        "name": "Κρουαζιέρα με καταμαράν premium στην Αγία Νάπα προς τη Γαλάζια Λιμνοθάλασσα με γεύμα",
+        "shortDescription": "Απολαύστε πολυτελή κρουαζιέρα με καταμαράν από Αγία Νάπα στη Μπλε Λιμνοθάλασσα με κολύμπι και γεύμα.",
+        "description": "Ξεκινήστε από την Αγία Νάπα με ένα premium καταμαράν προς τη διάσημη Μπλε Λιμνοθάλασσα. Κολυμπήστε σε κρυστάλλινα νερά, απολαύστε την ηλιοθεραπεία στα ευρύχωρα καταστρώματα και γευτείτε φρεσκομαγειρεμένο γεύμα στο πλοίο. Αυτή η χαλαρωτική κρουαζιέρα συνδυάζει άνεση, αναψυχή και υπέροχη μεσογειακή θέα για οικογένειες, ζευγάρια και παρέες."
+      },
+      "ru": {
+        "name": "Премиальный круиз на катамаране из Айя-Напы в Голубую лагуну с обедом",
+        "shortDescription": "Насладитесь роскошным круизом на катамаране из Айя-Напы в Голубую лагуну с купанием и обедом.",
+        "description": "Отправьтесь из Айя-Напы в премиальный круиз на катамаране к знаменитой Голубой лагуне. Купайтесь в прозрачных водах, загорайте на просторных палубах и наслаждайтесь свежеприготовленным обедом на борту. Этот комфортный и живописный круиз сочетает отдых, удобство и потрясающие виды Средиземного моря для семей, пар и друзей."
+      }
+    }
+  },
+  {
+    "id": 21,
+    "slug": "meet-the-locals-troodos-mountains",
+    "image": "/tours/tour-21.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "Meet the locals of Troodos mountains",
+        "shortDescription": "Experience authentic Cypriot culture in Troodos Mountains by meeting locals, tasting traditions, and exploring villages.",
+        "description": "Discover the heart of Cyprus in the Troodos Mountains by meeting its welcoming locals. Visit picturesque villages, experience traditional crafts, and taste authentic regional delicacies. Learn about the mountain way of life, enjoy stunning landscapes, and immerse yourself in the culture and hospitality that define rural Cyprus."
+      },
+      "gr": {
+        "name": "Γνωρίστε τους Ντόπιους των Βουνών του Τροόδους",
+        "shortDescription": "Ζήστε την αυθεντική κυπριακή κουλτούρα στα βουνά του Τροόδους, γνωρίζοντας ντόπιους και παραδοσιακά χωριά.",
+        "description": "Ανακαλύψτε την καρδιά της Κύπρου στα βουνά του Τροόδους γνωρίζοντας τους φιλόξενους ντόπιους. Επισκεφθείτε γραφικά χωριά, γνωρίστε παραδοσιακές τέχνες και δοκιμάστε αυθεντικές τοπικές λιχουδιές. Μάθετε για τον τρόπο ζωής στα βουνά, απολαύστε μαγευτικά τοπία και ζήστε την κουλτούρα και τη φιλοξενία της κυπριακής υπαίθρου."
+      },
+      "ru": {
+        "name": "Познакомьтесь с местными жителями гор Троодос",
+        "shortDescription": "Познайте подлинную кипрскую культуру в горах Троодос, встречаясь с местными жителями и исследуя деревни.",
+        "description": "Откройте сердце Кипра в горах Троодос, познакомившись с гостеприимными местными жителями. Посетите живописные деревни, узнайте о традиционных ремёслах и попробуйте аутентичные региональные блюда. Познакомьтесь с горным образом жизни, насладитесь великолепными пейзажами и прочувствуйте культуру и радушие, которые отличают сельский Кипр."
+      }
+    }
+  }
+]
