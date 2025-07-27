@@ -1,0 +1,486 @@
+[
+  {
+    "id": 1,
+    "slug": "elena-ru-limassol",
+    "image": "/guides/guide-1.jpg",
+    "city": "Limassol",
+    "sector": "History",
+    "translations": {
+      "en": {
+        "name": "Elena",
+        "shortDescription": "Experienced Russian-speaking guide in Limassol.",
+        "description": "Elena offers historical and cultural walking tours around Limassol with deep knowledge and engaging storytelling."
+      },
+      "gr": {
+        "name": "Ελένα",
+        "shortDescription": "Έμπειρη ξεναγός στη Λεμεσό που μιλά ρωσικά.",
+        "description": "Η Ελένα προσφέρει περιηγήσεις με τα πόδια με έμφαση στην ιστορία και τον πολιτισμό της Λεμεσού."
+      },
+      "ru": {
+        "name": "Елена",
+        "shortDescription": "Опытный гид в Лимассоле, говорит по-русски.",
+        "description": "Елена проводит исторические и культурные экскурсии по Лимассолу с увлекательным рассказом."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "slug": "andreas-nicosia",
+    "image": "/guides/guide-2.jpeg",
+    "city": "Nicosia",
+    "translations": {
+      "en": {
+        "name": "Andreas",
+        "shortDescription": "Local expert in Nicosia's ancient and modern history.",
+        "description": "Andreas offers detailed tours around old and new Nicosia, focusing on culture, politics, and architecture."
+      },
+      "gr": {
+        "name": "Ανδρέας",
+        "shortDescription": "Τοπικός ειδικός στην ιστορία της Λευκωσίας.",
+        "description": "Ο Ανδρέας προσφέρει ξεναγήσεις στην παλιά και νέα Λευκωσία με έμφαση στην πολιτιστική και πολιτική ιστορία."
+      },
+      "ru": {
+        "name": "Андреас",
+        "shortDescription": "Эксперт по истории Никосии.",
+        "description": "Андреас проводит экскурсии по старому и новому городу, рассказывая о культуре и архитектуре."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "slug": "maria-larnaca",
+    "image": "/guides/guide-3.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "Maria",
+        "shortDescription": "Friendly and informative Larnaca tour guide.",
+        "description": "Maria offers beachside, city, and church tours with deep local knowledge and a welcoming attitude."
+      },
+      "gr": {
+        "name": "Μαρία",
+        "shortDescription": "Φιλική και ενημερωτική ξεναγός στη Λάρνακα.",
+        "description": "Η Μαρία προσφέρει ξεναγήσεις στην πόλη, στις παραλίες και στις εκκλησίες της Λάρνακας."
+      },
+      "ru": {
+        "name": "Мария",
+        "shortDescription": "Дружелюбный и знающий гид по Ларнаке.",
+        "description": "Мария предлагает экскурсии по пляжам, церквям и улицам Ларнаки."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "slug": "vasilis-paphos",
+    "image": "/guides/guide-4.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Vasilis",
+        "shortDescription": "Mythology and archaeology specialist in Paphos.",
+        "description": "Vasilis guides guests through the ancient ruins and myths of Paphos in a fun and educational way."
+      },
+      "gr": {
+        "name": "Βασίλης",
+        "shortDescription": "Ειδικός στην αρχαιολογία και τη μυθολογία της Πάφου.",
+        "description": "Ο Βασίλης οργανώνει περιηγήσεις σε αρχαιολογικούς χώρους με μύθους και ιστορικές αναφορές."
+      },
+      "ru": {
+        "name": "Василис",
+        "shortDescription": "Специалист по мифологии и археологии в Пафосе.",
+        "description": "Василис проводит экскурсии по древним руинам с интересными мифами и легендами."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "slug": "katerina-ayia-napa",
+    "image": "/guides/guide-5.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "Katerina",
+        "shortDescription": "Expert in beach and nightlife tours.",
+        "description": "Katerina offers fun and safe walking tours around the beaches, bars, and hidden gems of Ayia Napa."
+      },
+      "gr": {
+        "name": "Κατερίνα",
+        "shortDescription": "Ξεναγήσεις σε παραλίες και νυχτερινή ζωή.",
+        "description": "Η Κατερίνα οργανώνει διασκεδαστικές περιηγήσεις στις παραλίες και τα κλαμπ της Αγίας Νάπας."
+      },
+      "ru": {
+        "name": "Катерина",
+        "shortDescription": "Гид по пляжам и ночной жизни Айя-Напы.",
+        "description": "Катерина проводит вечерние туры по пляжам, барам и клубам Айя-Напы."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "slug": "george-protaras",
+    "image": "/guides/guide-6.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "George",
+        "shortDescription": "Nature trails and history expert.",
+        "description": "George guides through Cape Greco nature park and tells stories about ancient coastal villages."
+      },
+      "gr": {
+        "name": "Γιώργος",
+        "shortDescription": "Ειδικός σε μονοπάτια και φυσικά τοπία.",
+        "description": "Ο Γιώργος προσφέρει ξεναγήσεις στο ακρωτήρι Γκρέκο και παραδοσιακά χωριά."
+      },
+      "ru": {
+        "name": "Георгий",
+        "shortDescription": "Гид по природе и деревням Протараса.",
+        "description": "Георгий показывает красоту мыса Греко и рассказывает о древних поселениях."
+      }
+    }
+  },
+  {
+  "id": 7,
+  "slug": "sofia-limassol-guide",
+  "image": "/guides/guide-7.jpg",
+  "city": "Limassol",
+  "translations": {
+    "en": {
+      "name": "Sofia",
+      "shortDescription": "Cultural walking tours through Limassol's old town.",
+      "description": "Sofia explores Limassol’s hidden alleys, markets, and historical sites with local insight."
+    },
+    "gr": {
+      "name": "Σοφία",
+      "shortDescription": "Πολιτιστικές περιηγήσεις στην παλιά πόλη της Λεμεσού.",
+      "description": "Η Σοφία αποκαλύπτει τις ιστορικές γωνιές και αγορές της Λεμεσού με γνήσιο τοπικό χαρακτήρα."
+    },
+    "ru": {
+      "name": "София",
+      "shortDescription": "Культурные экскурсии по старому городу Лимассола.",
+      "description": "София показывает тайные улочки и рынки с местным колоритом."
+    }
+  }
+  },
+  {
+    "id": 8,
+    "slug": "nikos-nicosia-guide",
+    "image": "/guides/guide-8.jpg",
+    "city": "Nicosia",
+    "translations": {
+        "en": {
+        "name": "Nikos",
+        "shortDescription": "Historical walking tours of central Nicosia.",
+        "description": "Nikos shares stories from medieval to modern times, exploring Nicosia’s split history."
+        },
+        "gr": {
+        "name": "Νίκος",
+        "shortDescription": "Ξεναγήσεις στην καρδιά της Λευκωσίας.",
+        "description": "Ο Νίκος διηγείται την ιστορία της Λευκωσίας από τον Μεσαίωνα μέχρι σήμερα."
+        },
+        "ru": {
+        "name": "Никос",
+        "shortDescription": "Исторические туры по Никосии.",
+        "description": "Никос рассказывает об истории Никосии от средневековья до современности."
+        }
+    }
+  },
+  {
+    "id": 9,
+    "slug": "lena-larnaca-guide",
+    "image": "/guides/guide-9.jpg",
+    "city": "Larnaca",
+    "translations": {
+        "en": {
+        "name": "Lena",
+        "shortDescription": "Church and architecture tours in Larnaca.",
+        "description": "Lena specializes in the religious sites and historical churches of Larnaca."
+        },
+        "gr": {
+        "name": "Λένα",
+        "shortDescription": "Ξεναγήσεις σε εκκλησίες και αρχιτεκτονικά σημεία.",
+        "description": "Η Λένα ειδικεύεται σε θρησκευτικά αξιοθέατα και ναούς της Λάρνακας."
+        },
+        "ru": {
+        "name": "Лена",
+        "shortDescription": "Экскурсии по церквям Ларнаки.",
+        "description": "Лена проводит туры по храмам и архитектурным памятникам города."
+        }
+    }
+  },
+  {
+    "id": 10,
+    "slug": "chris-paphos-guide",
+    "image": "/guides/guide-10.jpg",
+    "city": "Paphos",
+    "translations": {
+        "en": {
+        "name": "Chris",
+        "shortDescription": "Nature and archaeological explorer in Paphos.",
+        "description": "Chris leads tours to tombs, mosaics, and natural trails with passion and energy."
+        },
+        "gr": {
+        "name": "Χρήστος",
+        "shortDescription": "Ξεναγήσεις σε τάφους και μονοπάτια φύσης στην Πάφο.",
+        "description": "Ο Χρήστος οδηγεί επισκέπτες σε μωσαϊκά και αρχαιολογικούς χώρους."
+        },
+        "ru": {
+        "name": "Хрис",
+        "shortDescription": "Природные и археологические туры в Пафосе.",
+        "description": "Хрис проводит туры по тропам, гробницам и античным мозаикам."
+        }
+    }
+  },
+  {
+    "id": 11,
+    "slug": "angelina-ayia-napa-guide",
+    "image": "/guides/guide-11.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+        "en": {
+        "name": "Angelina",
+        "shortDescription": "Boat tour guide and marine life educator.",
+        "description": "Angelina organizes scenic sea tours and teaches about Mediterranean sea creatures."
+        },
+        "gr": {
+        "name": "Αγγελίνα",
+        "shortDescription": "Ξεναγήσεις με σκάφος και θαλάσσια φύση.",
+        "description": "Η Αγγελίνα προσφέρει περιηγήσεις στη θάλασσα με ενημέρωση για τη θαλάσσια ζωή."
+        },
+        "ru": {
+        "name": "Анджелина",
+        "shortDescription": "Морские экскурсии и обучение морской фауне.",
+        "description": "Анджелина проводит прогулки по морю с рассказами о морских животных."
+        }
+    }
+  },
+  {
+    "id": 12,
+    "slug": "dimitris-protaras-guide",
+    "image": "/guides/guide-12.jpg",
+    "city": "Protaras",
+    "translations": {
+        "en": {
+        "name": "Dimitris",
+        "shortDescription": "Guide to coastal hikes and scenic views.",
+        "description": "Dimitris takes guests on cliffside trails and panoramic routes near Protaras."
+        },
+        "gr": {
+        "name": "Δημήτρης",
+        "shortDescription": "Ξεναγήσεις σε παραθαλάσσια μονοπάτια.",
+        "description": "Ο Δημήτρης οδηγεί σε μονοπάτια με θέα και φυσική ομορφιά."
+        },
+        "ru": {
+        "name": "Димитрис",
+        "shortDescription": "Гид по прибрежным тропам Протараса.",
+        "description": "Димитрис ведёт по живописным местам с видом на море."
+        }
+    }
+  },
+  {
+    "id": 13,
+    "slug": "anastasia-limassol-guide",
+    "image": "/guides/guide-13.jpg",
+    "city": "Limassol",
+    "translations": {
+        "en": {
+        "name": "Anastasia",
+        "shortDescription": "Wine and gastronomy tours near Limassol.",
+        "description": "Anastasia offers vineyard tours with local wine tasting and food pairings."
+        },
+        "gr": {
+        "name": "Αναστασία",
+        "shortDescription": "Ξεναγήσεις σε οινοποιεία και γευσιγνωσία.",
+        "description": "Η Αναστασία οδηγεί σε οινοποιεία με δοκιμή κρασιού και τοπικών προϊόντων."
+        },
+        "ru": {
+        "name": "Анастасия",
+        "shortDescription": "Гастрономические и винные туры в Лимассоле.",
+        "description": "Анастасия организует туры по винодельням с дегустациями."
+        }
+    }
+  },
+  {
+    "id": 14,
+    "slug": "panayiotis-nicosia-guide",
+    "image": "/guides/guide-14.jpg",
+    "city": "Nicosia",
+    "translations": {
+        "en": {
+        "name": "Panayiotis",
+        "shortDescription": "Art and gallery tours in Nicosia.",
+        "description": "Panayiotis showcases Nicosia’s contemporary art and traditional handicrafts."
+        },
+        "gr": {
+        "name": "Παναγιώτης",
+        "shortDescription": "Ξεναγήσεις σε γκαλερί και τέχνη της Λευκωσίας.",
+        "description": "Ο Παναγιώτης παρουσιάζει σύγχρονη και παραδοσιακή τέχνη."
+        },
+        "ru": {
+        "name": "Панайотис",
+        "shortDescription": "Гид по искусству и ремёслам Никосии.",
+        "description": "Панайотис показывает галереи и художественные мастерские."
+        }
+    }
+  },
+  {
+    "id": 15,
+    "slug": "ioanna-paphos-guide",
+    "image": "/guides/guide-15.jpg",
+    "city": "Paphos",
+    "translations": {
+        "en": {
+        "name": "Ioanna",
+        "shortDescription": "Cultural and culinary guide in Paphos.",
+        "description": "Ioanna combines city walking with tasting local sweets and drinks."
+        },
+        "gr": {
+        "name": "Ιωάννα",
+        "shortDescription": "Ξεναγήσεις με γεύσεις και πολιτισμό.",
+        "description": "Η Ιωάννα οδηγεί σε πολιτιστικές περιηγήσεις με τοπικά κεράσματα."
+        },
+        "ru": {
+        "name": "Иоанна",
+        "shortDescription": "Кулинарные туры и прогулки по Пафосу.",
+        "description": "Иоанна знакомит с кухней и историей города."
+        }
+    }
+  },
+  {
+    "id": 16,
+    "slug": "marcos-ayia-napa-guide",
+    "image": "/guides/guide-16.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+        "en": {
+        "name": "Marcos",
+        "shortDescription": "Extreme sports and beach tours guide.",
+        "description": "Marcos organizes snorkeling, surfing, and active tours around Ayia Napa’s coast."
+        },
+        "gr": {
+        "name": "Μάρκος",
+        "shortDescription": "Ξεναγός θαλάσσιων σπορ και περιπέτειας.",
+        "description": "Ο Μάρκος προσφέρει καταδύσεις και σέρφινγκ στην Αγία Νάπα."
+        },
+        "ru": {
+        "name": "Маркос",
+        "shortDescription": "Гид по активным развлечениям на пляже.",
+        "description": "Маркос предлагает снорклинг, серфинг и морские экскурсии."
+        }
+    }
+  },
+  {
+    "id": 17,
+    "slug": "christina-larnaca-guide",
+    "image": "/guides/guide-17.jpeg",
+    "city": "Larnaca",
+    "translations": {
+        "en": {
+        "name": "Christina",
+        "shortDescription": "Sunset and romantic city tours.",
+        "description": "Christina specializes in romantic walks, ideal for couples visiting Larnaca."
+        },
+        "gr": {
+        "name": "Χριστίνα",
+        "shortDescription": "Ρομαντικές περιηγήσεις στην πόλη.",
+        "description": "Η Χριστίνα προσφέρει ρομαντικούς περιπάτους στη Λάρνακα για ζευγάρια."
+        },
+        "ru": {
+        "name": "Христина",
+        "shortDescription": "Романтические туры по Ларнаке.",
+        "description": "Христина проводит прогулки по набережной и закатам."
+        }
+    }
+  },
+  {
+    "id": 18,
+    "slug": "stefanos-protaras-guide",
+    "image": "/guides/guide-18.jpg",
+    "city": "Protaras",
+    "translations": {
+        "en": {
+        "name": "Stefanos",
+        "shortDescription": "Photography and nature tour guide.",
+        "description": "Stefanos helps capture the best photo spots around Protaras landscapes."
+        },
+        "gr": {
+        "name": "Στέφανος",
+        "shortDescription": "Ξεναγός φωτογραφίας και τοπίων.",
+        "description": "Ο Στέφανος γνωρίζει τα καλύτερα σημεία για φωτογράφιση στην περιοχή."
+        },
+        "ru": {
+        "name": "Стефанос",
+        "shortDescription": "Гид по фототурсам и природе.",
+        "description": "Стефанос помогает найти лучшие места для фотографий."
+        }
+    }
+  },
+  {
+    "id": 19,
+    "slug": "eleni-limassol-guide",
+    "image": "/guides/guide-19.jpg",
+    "city": "Limassol",
+    "translations": {
+        "en": {
+        "name": "Eleni",
+        "shortDescription": "Street art and creative city tours.",
+        "description": "Eleni guides through Limassol’s urban art scene and cultural corners."
+        },
+        "gr": {
+        "name": "Ελένη",
+        "shortDescription": "Ξεναγήσεις σε τέχνη δρόμου και πολιτιστικά μέρη.",
+        "description": "Η Ελένη παρουσιάζει την αστική τέχνη και τη δημιουργική Λεμεσό."
+        },
+        "ru": {
+        "name": "Элени",
+        "shortDescription": "Гид по уличному искусству Лимассола.",
+        "description": "Элени показывает красочные граффити и арт-пространства города."
+        }
+    }
+  },
+  {
+    "id": 20,
+    "slug": "petros-nicosia-guide",
+    "image": "/guides/guide-20.jpg",
+    "city": "Nicosia",
+    "translations": {
+        "en": {
+        "name": "Lucy",
+        "shortDescription": "Traditional music and folklore specialist.",
+        "description": "Petros guides music lovers through folk instrument shops and live performances in Nicosia."
+        },
+        "gr": {
+        "name": "Πέτρος",
+        "shortDescription": "Ειδικός στη μουσική και την παράδοση.",
+        "description": "Ο Πέτρος ξεναγεί σε καταστήματα και χώρους παραδοσιακής μουσικής."
+        },
+        "ru": {
+        "name": "Петрос",
+        "shortDescription": "Гид по фольклору и традиционной музыке.",
+        "description": "Петрос показывает магазины с инструментами и живую музыку Никосии."
+        }
+    }
+  },
+  {
+    "id": 21,
+    "slug": "maria-papadopoulou",
+    "image": "/guides/guide-21.jpg",
+    "city": "Nicosia",
+    "translations": {
+        "en": {
+        "name": "Maria",
+        "shortDescription": "Certified cultural guide with over 10 years of experience.",
+        "description": "Maria guides cultural walks in Nicosia, sharing history, museums, local traditions, and stories in English, Greek, and Russian."
+        },
+        "gr": {
+        "name": "Μαρία Παπαδοπούλου",
+        "shortDescription": "Πιστοποιημένη ξεναγός με πάνω από 10 χρόνια εμπειρίας.",
+        "description": "Η Μαρία ξεναγεί στη Λευκωσία με ιστορίες, μουσεία, παραδόσεις και τοπική γνώση στα Αγγλικά, Ελληνικά και Ρωσικά."
+        },
+        "ru": {
+        "name": "Мария Пападопулу",
+        "shortDescription": "Сертифицированный гид с более чем 10-летним стажем.",
+        "description": "Мария проводит экскурсии по Никосии: музеи, история, традиции и культура на русском, английском и греческом языках."
+        }
+    }
+  }
+]
