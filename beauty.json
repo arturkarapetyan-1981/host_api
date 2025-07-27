@@ -1,0 +1,487 @@
+[
+  {
+    "id": 1,
+    "slug": "diverso-hair-studio",
+    "image": "/beauty/beauty-1.jpg",
+    "city": "Nicosia",
+    "translations": {
+      "en": {
+        "name": "Diverso Hair Studio",
+        "shortDescription": "Diverso Hair Studio: Trendy haircuts, styling & color treatments in a modern, welcoming salon.",
+        "description": "Diverso Hair Studio is a modern and cozy salon offering stylish haircuts, color services, and professional styling for women and men. Our experienced team focuses on the latest trends and personalized care, helping you express your individuality through hair in a relaxed and welcoming environment in the heart of the city."
+      },
+      "gr": {
+        "name": "Diverso Hair Studio",
+        "shortDescription": "Diverso Hair Studio: Μοντέρνα κουρέματα, χτενίσματα & βαφές σε ένα σύγχρονο και φιλόξενο κομμωτήριο.",
+        "description": "Το Diverso Hair Studio είναι ένα μοντέρνο και φιλόξενο κομμωτήριο που προσφέρει στυλάτα κουρέματα, βαφές και επαγγελματικά χτενίσματα για γυναίκες και άνδρες. Η έμπειρη ομάδα μας ακολουθεί τις τελευταίες τάσεις και προσφέρει εξατομικευμένη φροντίδα, δημιουργώντας το ιδανικό look σε έναν άνετο και ευχάριστο χώρο."
+      },
+      "ru": {
+        "name": "Diverso Hair Studio",
+        "shortDescription": "Diverso Hair Studio: Стильные стрижки, укладки и окрашивания в современном и уютном салоне.",
+        "description": "Diverso Hair Studio — это современный и уютный салон, предлагающий стильные стрижки, окрашивания и профессиональные укладки для женщин и мужчин. Наша команда следует последним тенденциям и обеспечивает индивидуальный подход, создавая образ, отражающий вашу личность, в комфортной и дружественной атмосфере."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "slug": "limassol-glow",
+    "image": "/beauty/beauty-2.jpg",
+    "city": "Limassol",
+    "translations": {
+      "en": {
+        "name": "Esthetics Beauty and Spa",
+        "shortDescription": "Esthetics Beauty and Spa Limassol: Premium beauty treatments and relaxing spa rituals in the heart of Limassol.",
+        "description": "Esthetics Beauty and Spa Limassol offers premium skincare, body treatments, and wellness rituals in a relaxing, modern space. Located in the heart of Limassol, our expert therapists deliver personalized beauty experiences using high-quality products, helping you unwind, rejuvenate, and restore balance to your body and mind."
+      },
+      "gr": {
+        "name": "Esthetics Beauty and Spa",
+        "shortDescription": "Esthetics Beauty and Spa Limassol: Ποιοτικές θεραπείες ομορφιάς και χαλαρωτικά spa rituals στο κέντρο της Λεμεσού.",
+        "description": "Το Esthetics Beauty and Spa Limassol προσφέρει ποιοτικές θεραπείες προσώπου, σώματος και ευεξίας σε έναν σύγχρονο, χαλαρωτικό χώρο. Στο κέντρο της Λεμεσού, οι έμπειροι θεραπευτές μας προσφέρουν εξατομικευμένες εμπειρίες ομορφιάς με ποιοτικά προϊόντα, βοηθώντας σας να χαλαρώσετε, να αναζωογονηθείτε και να βρείτε την εσωτερική σας ισορροπία."
+      },
+      "ru": {
+        "name": "Esthetics Beauty and Spa",
+        "shortDescription": "Esthetics Beauty and Spa Limassol: Премиальные процедуры красоты и расслабляющие спа-ритуалы в самом центре Лимассола.",
+        "description": "Esthetics Beauty and Spa Limassol предлагает качественный уход за лицом и телом, спа-ритуалы и расслабляющую атмосферу. В центре Лимассола опытные мастера создают персонализированные процедуры с использованием премиум-косметики, помогая вам расслабиться, восстановиться и вернуть гармонию телу и душе."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "slug": "suenso-spa-limassol",
+    "image": "/beauty/beauty-3.png",
+    "city": "Limassol",
+    "translations": {
+      "en": {
+        "name": "Suenso Spa",
+        "shortDescription": "Suenso Spa Limassol: Holistic spa treatments, massages & wellness rituals in a serene and luxurious atmosphere.",
+        "description": "Suenso Spa Limassol offers holistic spa treatments, relaxing massages, and wellness rituals in a peaceful, luxurious setting. Dedicated to restoring balance and rejuvenation, our expert therapists use premium products to provide personalized experiences that refresh your body, mind, and spirit in the heart of Limassol."
+      },
+      "gr": {
+        "name": "Suenso Spa",
+        "shortDescription": "Suenso Spa Λεμεσός: Ολιστικές θεραπείες spa, μασάζ & τελετουργίες ευεξίας σε έναν ήρεμο και πολυτελή χώρο.",
+        "description": "Το Suenso Spa Λεμεσός προσφέρει ολιστικές θεραπείες spa, χαλαρωτικά μασάζ και τελετουργίες ευεξίας σε έναν ήρεμο και πολυτελή χώρο. Με έμπειρους θεραπευτές και ποιοτικά προϊόντα, δημιουργούμε εξατομικευμένες εμπειρίες που αναζωογονούν σώμα, νου και πνεύμα στο κέντρο της Λεμεσού."
+      },
+      "ru": {
+        "name": "Suenso Spa",
+        "shortDescription": "Suenso Spa Лимассол: Оздоровительные спа-процедуры, массажи и ритуалы благополучия в спокойной и роскошной атмосфере.",
+        "description": "Suenso Spa Лимассол предлагает оздоровительные спа-процедуры, расслабляющие массажи и ритуалы благополучия в спокойной и роскошной атмосфере. Наши опытные специалисты используют премиум-продукцию, создавая индивидуальные процедуры для восстановления тела, ума и духа в центре Лимассола."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "slug": "marrakech-spa-massage-ayia-napa",
+    "image": "/beauty/beauty-4.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "Marrakech SPA Massage",
+        "shortDescription": "Marrakech SPA Massage – Ayia Napa: Authentic Moroccan spa and massage experiences in a luxurious, calming setting.",
+        "description": "Marrakech SPA Massage in Ayia Napa offers authentic Moroccan-inspired treatments, relaxing massages, and rejuvenating spa rituals. Step into a luxurious and tranquil space designed to calm the senses and restore balance. Our experienced therapists use traditional techniques and natural products to deliver a truly immersive wellness experience."
+      },
+      "gr": {
+        "name": "Marrakech SPA Massage",
+        "shortDescription": "Marrakech SPA Massage – Αγία Νάπα: Αυθεντικές μαροκινές εμπειρίες spa και μασάζ σε έναν πολυτελή και χαλαρωτικό χώρο.",
+        "description": "Το Marrakech SPA Massage στην Αγία Νάπα προσφέρει αυθεντικές μαροκινές θεραπείες, χαλαρωτικά μασάζ και αναζωογονητικά spa rituals. Απολαύστε έναν πολυτελή και γαλήνιο χώρο, ιδανικό για χαλάρωση και ευεξία. Οι έμπειροι θεραπευτές μας χρησιμοποιούν παραδοσιακές τεχνικές και φυσικά προϊόντα για μια ολοκληρωμένη εμπειρία ανανέωσης."
+      },
+      "ru": {
+        "name": "Marrakech SPA Massage",
+        "shortDescription": "Marrakech SPA Massage – Айя-Напа: Аутентичные марокканские спа и массажи в роскошной и спокойной атмосфере.",
+        "description": "Marrakech SPA Massage в Айя-Напе предлагает аутентичные марокканские процедуры, расслабляющие массажи и спа-ритуалы. Погрузитесь в атмосферу роскоши и покоя, созданную для восстановления тела и разума. Опытные мастера используют традиционные техники и натуральные средства для полного ощущения гармонии и обновления."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "slug": "traditional-balinese-herbal-spa",
+    "image": "/beauty/beauty-5.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Traditional Balinesse Herbal Spa",
+        "shortDescription": "Traditional Balinese Herbal Spa: Authentic Balinese treatments and herbal therapies for deep relaxation and holistic wellness.",
+        "description": "Traditional Balinese Herbal Spa offers authentic Balinese therapies using natural herbs, oils, and ancient healing techniques. Experience deep relaxation through traditional massages, body scrubs, and wellness rituals designed to restore balance and harmony. A tranquil space where Eastern tradition meets holistic care for mind, body, and spirit."
+      },
+      "gr": {
+        "name": "Traditional Balinesse Herbal Spa",
+        "shortDescription": "Traditional Balinese Herbal Spa: Αυθεντικές βαλινέζικες θεραπείες και φυτοθεραπείες για βαθιά χαλάρωση και ολιστική ευεξία.",
+        "description": "Το Traditional Balinese Herbal Spa προσφέρει αυθεντικές βαλινέζικες θεραπείες με φυσικά βότανα, έλαια και αρχαίες τεχνικές ίασης. Απολαύστε μασάζ, απολεπίσεις σώματος και τελετουργίες ευεξίας που επαναφέρουν την ισορροπία και την αρμονία. Ένας ήρεμος χώρος όπου η ανατολίτικη παράδοση συναντά την ολιστική φροντίδα σώματος και πνεύματος."
+      },
+      "ru": {
+        "name": "Traditional Balinesse Herbal Spa",
+        "shortDescription": "Traditional Balinese Herbal Spa: Аутентичные балийские процедуры и травяные терапии для глубокого расслабления и общего оздоровления.",
+        "description": "Traditional Balinese Herbal Spa предлагает аутентичные балийские процедуры с использованием натуральных трав, масел и древних техник исцеления. Насладитесь расслабляющими массажами, скрабами для тела и ритуалами благополучия, восстанавливающими баланс и гармонию. Спокойное пространство, где восточные традиции сочетаются с целостным уходом за телом и душой."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "slug": "beauty-lounge-by-tsikou",
+    "image": "/beauty/beauty-6.jpg",
+    "city": "Limassol",
+    "translations": {
+      "en": {
+        "name": "Beauty Lounge by Tsikou",
+        "shortDescription": "Beauty Lounge by Tsikou: Personalized beauty treatments, skincare, and makeup in a modern, elegant space designed for your comfort.",
+        "description": "Beauty Lounge by Tsikou offers high-quality beauty treatments, personalized skincare, and professional makeup in an elegant and relaxing environment. Located in the heart of the city, our expert team is dedicated to enhancing your natural beauty with premium products and tailored services that leave you feeling confident, radiant, and refreshed."
+      },
+      "gr": {
+        "name": "Beauty Lounge by Tsikou",
+        "shortDescription": "Beauty Lounge by Tsikou: Εξατομικευμένες θεραπείες ομορφιάς, περιποίηση προσώπου και μακιγιάζ σε έναν σύγχρονο και κομψό χώρο.",
+        "description": "Το Beauty Lounge by Tsikou προσφέρει ποιοτικές θεραπείες ομορφιάς, εξατομικευμένη περιποίηση προσώπου και επαγγελματικό μακιγιάζ σε έναν κομψό και χαλαρωτικό χώρο. Στο κέντρο της πόλης, η έμπειρη ομάδα μας αναδεικνύει τη φυσική σας ομορφιά με ποιοτικά προϊόντα και υπηρεσίες που σας κάνουν να νιώθετε αυτοπεποίθηση και ανανέωση."
+      },
+      "ru": {
+        "name": "Beauty Lounge by Tsikou",
+        "shortDescription": "Beauty Lounge by Tsikou: Индивидуальные процедуры красоты, уход за кожей и макияж в современном и элегантном салоне.",
+        "description": "Beauty Lounge by Tsikou предлагает качественные процедуры красоты, индивидуальный уход за кожей и профессиональный макияж в стильной и уютной атмосфере. В самом центре города наша команда экспертов использует премиум-продукцию, чтобы подчеркнуть вашу естественную красоту и подарить вам ощущение свежести и уверенности."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "slug": "novella-hair-mode-nicosia",
+    "image": "/beauty/beauty-7.jpeg",
+    "city": "Nicosia",
+    "translations": {
+      "en": {
+        "name": "Novella Hair Mode",
+        "shortDescription": "Novella Hair Mode – Nicosia: Creative hair styling, coloring, and treatments delivered by professionals in a modern salon in Nicosia.",
+        "description": "Novella Hair Mode in Nicosia offers modern haircuts, color transformations, and professional hair treatments tailored to your style. With a focus on creativity, precision, and personal care, our experienced stylists ensure every visit enhances your look and confidence in a contemporary, welcoming salon located in the heart of Nicosia."
+      },
+      "gr": {
+        "name": "Novella Hair Mode",
+        "shortDescription": "Novella Hair Mode – Λευκωσία: Δημιουργικά χτενίσματα, βαφές και θεραπείες μαλλιών από επαγγελματίες σε ένα μοντέρνο κομμωτήριο στη Λευκωσία.",
+        "description": "Το Novella Hair Mode στη Λευκωσία προσφέρει μοντέρνα κουρέματα, αλλαγές χρώματος και επαγγελματικές θεραπείες μαλλιών, προσαρμοσμένες στο προσωπικό σας στυλ. Με έμφαση στη δημιουργικότητα, την ακρίβεια και την εξατομικευμένη φροντίδα, οι έμπειροι κομμωτές μας σας βοηθούν να ανανεώσετε την εμφάνισή σας σε έναν σύγχρονο και φιλόξενο χώρο."
+      },
+      "ru": {
+        "name": "Novella Hair Mode",
+        "shortDescription": "Novella Hair Mode – Никосия: Креативные стрижки, окрашивания и уход за волосами от профессионалов в современном салоне Никосии.",
+        "description": "Novella Hair Mode в Никосии предлагает современные стрижки, окрашивания и профессиональный уход за волосами, адаптированный под ваш стиль. Наши опытные мастера сочетают креативность и индивидуальный подход, чтобы подчеркнуть вашу внешность и уверенность в себе в стильной и гостеприимной атмосфере салона в центре Никосии."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "slug": "blow-hair-nicosia",
+    "image": "/beauty/beauty-8.jpg",
+    "city": "Nicosia",
+    "translations": {
+      "en": {
+        "name": "Blow Hair",
+        "shortDescription": "Blow Hair – Nicosia: Trendy haircuts, coloring, and styling by professionals in a chic and modern salon in Nicosia.",
+        "description": "Blow Hair in Nicosia offers fashionable haircuts, coloring, and styling services tailored to your personal look. With a modern, elegant atmosphere and a team of skilled professionals, the salon focuses on creativity, quality, and personalized care—making every visit a refreshing beauty experience in the heart of Nicosia."
+      },
+      "gr": {
+        "name": "Blow Hair",
+        "shortDescription": "Blow Hair – Λευκωσία: Μοντέρνα κουρέματα, βαφές και χτενίσματα από επαγγελματίες σε ένα κομψό και σύγχρονο κομμωτήριο στη Λευκωσία.",
+        "description": "Το Blow Hair στη Λευκωσία προσφέρει μοντέρνα κουρέματα, βαφές και χτενίσματα προσαρμοσμένα στο προσωπικό σας στυλ. Με σύγχρονη και κομψή ατμόσφαιρα, και επαγγελματίες με εμπειρία, το κομμωτήριο συνδυάζει δημιουργικότητα, ποιότητα και προσωπική φροντίδα για μια μοναδική εμπειρία ομορφιάς στο κέντρο της Λευκωσίας."
+      },
+      "ru": {
+        "name": "Blow Hair",
+        "shortDescription": "Blow Hair – Никосия: Стильные стрижки, окрашивания и укладки от профессионалов в современном и элегантном салоне в Никосии.",
+        "description": "Blow Hair в Никосии предлагает модные стрижки, окрашивания и укладки, индивидуально подобранные под ваш стиль. В стильной и современной обстановке опытные мастера обеспечивают высокий уровень сервиса, творчество и заботу — делая каждый визит настоящим бьюти-опытом в самом центре Никосии."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "slug": "larnaca-beauty-house",
+    "image": "/beauty/beauty-9.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "Sole Hair Lounge",
+        "shortDescription": "Sole Hair Lounge: Stylish haircuts, color, and care delivered by professionals in a relaxed and modern salon.",
+        "description": "Sole Hair Lounge offers expert haircuts, coloring, and treatments in a modern and comfortable setting. With a team of creative professionals focused on your unique style, the salon delivers personalized hair care experiences that enhance your look and confidence, making every visit relaxing, refreshing, and beautifully styled."
+      },
+      "gr": {
+        "name": "Sole Hair Lounge",
+        "shortDescription": "Sole Hair Lounge: Μοντέρνα κουρέματα, βαφές και περιποίηση μαλλιών από επαγγελματίες σε έναν χαλαρό και σύγχρονο χώρο.",
+        "description": "Το Sole Hair Lounge προσφέρει επαγγελματικά κουρέματα, βαφές και θεραπείες μαλλιών σε έναν σύγχρονο και άνετο χώρο. Με δημιουργική ομάδα και έμφαση στο προσωπικό σας στυλ, το κομμωτήριο παρέχει εξατομικευμένες υπηρεσίες περιποίησης που αναδεικνύουν την εμφάνισή σας και προσφέρουν μια χαλαρωτική και αναζωογονητική εμπειρία."
+      },
+      "ru": {
+        "name": "Sole Hair Lounge",
+        "shortDescription": "Sole Hair Lounge: Стильные стрижки, окрашивания и уход за волосами от профессионалов в современной и уютной атмосфере.",
+        "description": "Sole Hair Lounge предлагает профессиональные стрижки, окрашивания и уход за волосами в стильной и уютной обстановке. Наша креативная команда учитывает индивидуальные особенности каждого клиента, создавая персонализированный уход, который подчеркивает вашу внешность и дарит чувство обновления, уверенности и комфорта."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "slug": "larnaca-pearl-spa",
+    "image": "/beauty/beauty-10.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "Pearl Spa & Beauty",
+        "shortDescription": "Pearl Spa & Beauty in Larnaca offers a serene escape with professional spa treatments, relaxing massages, and premium beauty services designed to rejuvenate your body and soul.",
+        "description": "Discover Pearl Spa & Beauty in Larnaca – a haven of relaxation and beauty. Indulge in expert spa treatments, soothing massages, and premium beauty care that leave you refreshed and radiant."
+      },
+      "gr": {
+        "name": "Pearl Spa & Beauty",
+        "shortDescription": "Το Pearl Spa & Beauty στη Λάρνακα προσφέρει μια ήρεμη απόδραση με επαγγελματικές θεραπείες σπα, χαλαρωτικά μασάζ και υπηρεσίες ομορφιάς υψηλής ποιότητας για την αναζωογόνηση σώματος και ψυχής.",
+        "description": "Ανακαλύψτε το Pearl Spa & Beauty στη Λάρνακα – έναν παράδεισο χαλάρωσης και ομορφιάς. Απολαύστε εξειδικευμένες θεραπείες σπα, χαλαρωτικά μασάζ και υπηρεσίες ομορφιάς που σας αναζωογονούν και σας κάνουν να λάμπετε."
+      },
+      "ru": {
+        "name": "Pearl Spa & Beauty",
+        "shortDescription": "Pearl Spa & Beauty в Ларнаке предлагает спокойный отдых с профессиональными спа-процедурами, расслабляющими массажами и качественными услугами красоты для обновления тела и души.",
+        "description": "Откройте для себя Pearl Spa & Beauty в Ларнаке – оазис релаксации и красоты. Побалуйте себя профессиональными спа-процедурами, расслабляющими массажами и уходом премиум-класса для свежести и сияния."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "slug": "iconic-nicosia-beauty",
+    "image": "/beauty/beauty-11.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "Theraspa",
+        "shortDescription": "Theraspa in Larnaca offers a luxurious escape with therapeutic spa treatments, relaxing massages, and advanced wellness services designed to restore balance, beauty, and inner peace.",
+        "description": "Theraspa in Larnaca is a luxurious wellness destination offering premium spa treatments, relaxing massages, and advanced beauty therapies. With expert therapists, serene ambiance, and personalized care, Theraspa focuses on rejuvenation, balance, and inner harmony. Whether for relaxation or beauty enhancement, every visit promises an unforgettable experience of comfort and renewal."
+      },
+      "gr": {
+        "name": "Theraspa",
+        "shortDescription": "Το Theraspa στη Λάρνακα προσφέρει μια πολυτελή απόδραση με θεραπευτικές θεραπείες σπα, χαλαρωτικά μασάζ και εξειδικευμένες υπηρεσίες ευεξίας για αποκατάσταση της ισορροπίας και της ομορφιάς.",
+        "description": "Το Theraspa στη Λάρνακα είναι ένας πολυτελής προορισμός ευεξίας που προσφέρει εξαιρετικές θεραπείες σπα, χαλαρωτικά μασάζ και προηγμένες θεραπείες ομορφιάς. Με εξειδικευμένο προσωπικό, ήρεμη ατμόσφαιρα και προσωπική φροντίδα, το Theraspa επικεντρώνεται στην αναζωογόνηση και ισορροπία. Κάθε επίσκεψη υπόσχεται εμπειρία χαλάρωσης και ανανέωσης που ξεχωρίζει."
+      },
+      "ru": {
+        "name": "Theraspa",
+        "shortDescription": "Theraspa в Ларнаке предлагает роскошный отдых с лечебными спа-процедурами, расслабляющими массажами и современными услугами для восстановления гармонии, красоты и внутреннего спокойствия.",
+        "description": "Theraspa в Ларнаке – это роскошный центр здоровья и красоты, предлагающий премиальные спа-процедуры, расслабляющие массажи и современные уходы. Профессиональные терапевты, спокойная атмосфера и индивидуальный подход помогают восстановить гармонию и силы. Каждое посещение Theraspa – это незабываемое ощущение заботы, отдыха и полного обновления тела и души."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "slug": "blush-studio-salon-paphos",
+    "image": "/beauty/beauty-12.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Blush Studio Salon",
+        "shortDescription": "Blush Studio Salon offers expert hair, lash, nail, and skin services in a relaxing environment.",
+        "description": "Blush Studio Salon in Paphos is a modern beauty destination offering professional hair coloring, lash extensions, manicures, waxing, and skincare treatments. Led by expert stylists, the salon delivers personalized, high-quality services using eco-friendly products. Relax in a chic, welcoming space designed to enhance your natural beauty and confidence."
+      },
+      "gr": {
+        "name": "Blush Studio Salon",
+        "shortDescription": "Το Blush Studio Salon προσφέρει επαγγελματικές υπηρεσίες μαλλιών, βλεφαρίδων, νυχιών και περιποίησης προσώπου.",
+        "description": "Το Blush Studio Salon στην Πάφο είναι ένας σύγχρονος χώρος ομορφιάς με υπηρεσίες βαφής μαλλιών, επέκτασης βλεφαρίδων, μανικιούρ, αποτρίχωσης και περιποίησης προσώπου. Με έμπειρους επαγγελματίες και οικολογικά προϊόντα, προσφέρει εξατομικευμένες υπηρεσίες σε έναν ζεστό και μοντέρνο χώρο που αναδεικνύει τη φυσική σας ομορφιά και αυτοπεποίθηση."
+      },
+      "ru": {
+        "name": "Blush Studio Salon",
+        "shortDescription": "Blush Studio Salon предлагает услуги по уходу за волосами, ресницами, ногтями и кожей.",
+        "description": "Blush Studio Salon в Пафосе — современный салон красоты с профессиональным окрашиванием волос, наращиванием ресниц, маникюром, депиляцией и уходом за кожей. Опытные мастера используют экологичные продукты и создают уютную атмосферу, где каждая услуга подчеркивает вашу естественную красоту и усиливает чувство уверенности."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "slug": "star-beauty-studio-paphos",
+    "image": "/beauty/beauty-13.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Star Beauty Studio",
+        "shortDescription": "Star Beauty Studio offers expert beauty, nail, hair, and lash treatments in a stylish Paphos salon.",
+        "description": "Star Beauty Studio in Paphos delivers a full range of beauty services, including hair styling, manicures, pedicures, lash extensions, and facials. With skilled professionals and a relaxing, modern atmosphere, the studio is dedicated to enhancing your natural beauty and providing a personalized experience for every client."
+      },
+      "gr": {
+        "name": "Star Beauty Studio",
+        "shortDescription": "Το Star Beauty Studio προσφέρει υπηρεσίες ομορφιάς, νυχιών, μαλλιών και βλεφαρίδων στην Πάφο.",
+        "description": "Το Star Beauty Studio στην Πάφο προσφέρει ολοκληρωμένες υπηρεσίες ομορφιάς, όπως χτένισμα, μανικιούρ, πεντικιούρ, επέκταση βλεφαρίδων και θεραπείες προσώπου. Με έμπειρους επαγγελματίες και μοντέρνο, χαλαρωτικό περιβάλλον, το στούντιο στοχεύει στην ανάδειξη της φυσικής σας ομορφιάς και την παροχή εξατομικευμένων υπηρεσιών."
+      },
+      "ru": {
+        "name": "Star Beauty Studio",
+        "shortDescription": "Star Beauty Studio предлагает услуги красоты, маникюра, волос и ресниц в Пафосе.",
+        "description": "Star Beauty Studio в Пафосе предлагает полный спектр бьюти-услуг: укладка волос, маникюр, педикюр, наращивание ресниц и уход за лицом. Профессиональные мастера и уютная атмосфера делают каждую процедуру индивидуальной, помогая подчеркнуть вашу естественную красоту и обеспечить комфорт на высоком уровне."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "slug": "the-royal-spa-ayia-napa",
+    "image": "/beauty/beauty-14.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "The Royal Spa Ayia Napa",
+        "shortDescription": "The Royal Spa offers luxury massages, facials, and wellness treatments in central Ayia Napa.",
+        "description": "The Royal Spa in Ayia Napa offers a luxurious escape with professional massages, facials, and wellness treatments. Located in the heart of the resort town, the spa provides a serene atmosphere, skilled therapists, and personalized care to rejuvenate body and mind for both tourists and locals alike."
+      },
+      "gr": {
+        "name": "The Royal Spa Ayia Napa",
+        "shortDescription": "Το Royal Spa προσφέρει πολυτελή μασάζ, περιποιήσεις προσώπου και ευεξίας στην Αγία Νάπα.",
+        "description": "Το Royal Spa στην Αγία Νάπα προσφέρει μια πολυτελή απόδραση με επαγγελματικά μασάζ, περιποιήσεις προσώπου και θεραπείες ευεξίας. Βρίσκεται στο κέντρο της πόλης και διαθέτει χαλαρωτική ατμόσφαιρα, εξειδικευμένους θεραπευτές και εξατομικευμένη φροντίδα για την αναζωογόνηση σώματος και πνεύματος, ιδανικό για τουρίστες και ντόπιους."
+      },
+      "ru": {
+        "name": "The Royal Spa Ayia Napa",
+        "shortDescription": "The Royal Spa предлагает роскошные массажи, уход за лицом и спа-процедуры в Айя-Напе.",
+        "description": "The Royal Spa в Айя-Напе предлагает роскошный отдых с профессиональными массажами, уходом за лицом и оздоровительными процедурами. Расположенный в центре курортного города, спа-салон сочетает расслабляющую атмосферу, квалифицированных терапевтов и индивидуальный подход — идеальное место для восстановления тела и духа для туристов и местных жителей."
+      }
+    }
+  },
+  {
+    "id": 15,
+    "slug": "sweet-soul-thai-massage-ayia-napa",
+    "image": "/beauty/beauty-15.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "Sweet Soul Thai Massage",
+        "shortDescription": "Authentic Thai massage in Ayia Napa offering deep relaxation and holistic body healing.",
+        "description": "Sweet Soul Thai Massage in Ayia Napa offers traditional Thai therapies designed to relax your body and refresh your spirit. With experienced therapists and a tranquil setting, it’s the perfect escape from daily stress. Discover deep healing, improved circulation, and restored balance through authentic techniques passed down through generations."
+      },
+      "gr": {
+        "name": "Sweet Soul Thai Massage",
+        "shortDescription": "Αυθεντικό ταϊλανδέζικο μασάζ στην Αγία Νάπα για χαλάρωση και ολιστική θεραπεία σώματος.",
+        "description": "Το Sweet Soul Thai Massage στην Αγία Νάπα προσφέρει παραδοσιακές ταϊλανδέζικες θεραπείες για χαλάρωση σώματος και πνεύματος. Έμπειροι θεραπευτές και ήρεμο περιβάλλον δημιουργούν την ιδανική απόδραση από το άγχος. Απολαύστε βαθιά ανακούφιση, βελτιωμένη κυκλοφορία και αρμονία μέσω αυθεντικών τεχνικών που περνούν από γενιά σε γενιά."
+      },
+      "ru": {
+        "name": "Sweet Soul Thai Massage",
+        "shortDescription": "Аутентичный тайский массаж в Айя-Напе для расслабления и исцеления всего тела.",
+        "description": "Sweet Soul Thai Massage в Айя-Напе предлагает традиционные тайские процедуры для расслабления тела и восстановления энергии. Опытные массажисты и спокойная атмосфера обеспечивают идеальный отдых от стресса. Почувствуйте глубокое исцеление, улучшение кровообращения и внутреннюю гармонию благодаря древним техникам, передающимся из поколения в поколение."
+      }
+    }
+  },
+  {
+    "id": 16,
+    "slug": "rusteek-nails-and-beauty-protaras",
+    "image": "/beauty/beauty-16.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "Lush Locks Studio",
+        "shortDescription": "Stylish nail and beauty treatments in Protaras for a flawless, elegant look.",
+        "description": "Luxury hair extensions, cuts, and color in sunny Protaras."
+      },
+      "gr": {
+        "name": "Lush Locks Studio",
+        "shortDescription": "Μοντέρνες υπηρεσίες νυχιών και ομορφιάς στον Πρωταρά για τέλεια εμφάνιση.",
+        "description": "Το Rusteek Nails And Beauty στον Πρωταρά προσφέρει επαγγελματική περιποίηση νυχιών και υπηρεσίες ομορφιάς σε έναν κομψό και φιλόξενο χώρο. Από κλασικό μανικιούρ έως περιποίηση προσώπου, η εξειδικευμένη ομάδα εξασφαλίζει άψογα αποτελέσματα, βοηθώντας σας να δείχνετε και να αισθάνεστε υπέροχα."
+      },
+      "ru": {
+        "name": "Lush Locks Studio",
+        "shortDescription": "Модный маникюр и бьюти-услуги в Протарасе для безупречного образа.",
+        "description": "Rusteek Nails And Beauty в Протарасе предлагает профессиональный уход за ногтями и косметические процедуры в стильной, уютной атмосфере. Классический маникюр, гель-лак или комплексный уход — опытная команда обеспечит высокое качество и поможет вам выглядеть и чувствовать себя великолепно."
+      }
+    }
+  },
+  {
+    "id": 17,
+    "slug": "beautylab-paralimni",
+    "image": "/beauty/beauty-17.jpeg",
+    "city": "Paralimni",
+    "translations": {
+      "en": {
+        "name": "BeautyLab",
+        "shortDescription": "Advanced beauty salon offering laser hair removal, anti-aging facials, body contouring, and wellness therapies.",
+        "description": "BeautyLab in Paralimni offers expert beauty and wellness services, including Soprano ICE laser hair removal, anti-aging facials, body contouring, and non-invasive slimming treatments. Using FDA-approved technology and trained staff, each client receives personalized care in a modern, welcoming environment, designed to enhance natural beauty and overall well-being."
+      },
+      "gr": {
+        "name": "BeautyLab",
+        "shortDescription": "Σύγχρονο ινστιτούτο ομορφιάς με αποτρίχωση laser, αντιγήρανση, περιποίηση σώματος και ευεξία.",
+        "description": "Το BeautyLab στο Παραλίμνι προσφέρει εξειδικευμένες υπηρεσίες ομορφιάς και ευεξίας, όπως αποτρίχωση με Soprano ICE laser, αντιγηραντικές θεραπείες προσώπου, λιπογλυπτική και μη επεμβατικές θεραπείες αδυνατίσματος. Με σύγχρονο εξοπλισμό και έμπειρο προσωπικό, παρέχεται εξατομικευμένη φροντίδα για φυσική ομορφιά και ευεξία σε έναν άνετο, μοντέρνο χώρο."
+      },
+      "ru": {
+        "name": "BeautyLab",
+        "shortDescription": "Современный салон красоты с лазерной эпиляцией, омоложением, коррекцией фигуры и спа-уходами.",
+        "description": "В BeautyLab в Паралимни предлагают профессиональные услуги красоты и здоровья: лазерную эпиляцию Soprano ICE, антивозрастной уход, моделирование тела и безоперационные процедуры похудения. Благодаря современному оборудованию и квалифицированному персоналу, каждому клиенту предоставляется индивидуальный подход в уютной, современной атмосфере для улучшения внешности и самочувствия."
+      }
+    }
+  },
+  {
+    "id": 18,
+    "slug": "image-beauty-massage-protaras",
+    "image": "/beauty/beauty-18.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "Image Beauty Massage",
+        "shortDescription": "Professional massage and spa therapies including salt cave, jacuzzi, facials, body scrubs, and reflexology.",
+        "description": "Image Beauty Massage in Protaras offers a range of professional spa and massage services, including salt cave sessions, jacuzzi, steam bath, facials, body scrubs, reflexology, and cellulite treatments. Skilled therapists ensure a personalized, deeply relaxing experience in a serene environment—ideal for restoring body balance, beauty, and overall well-being."
+      },
+      "gr": {
+        "name": "Image Beauty Massage",
+        "shortDescription": "Επαγγελματικές θεραπείες μασάζ και σπα με σπηλιά άλατος, τζακούζι, προσώπου και απολέπιση.",
+        "description": "Το Image Beauty Massage στον Πρωταρά προσφέρει ποιοτικές υπηρεσίες σπα και μασάζ, όπως σπηλιά άλατος, τζακούζι, χαμάμ, θεραπείες προσώπου, απολέπιση σώματος, ρεφλεξολογία και αντιμετώπιση κυτταρίτιδας. Έμπειροι θεραπευτές παρέχουν εξατομικευμένη φροντίδα σε ήρεμο περιβάλλον, προσφέροντας βαθιά χαλάρωση και αποκατάσταση της ισορροπίας του σώματος και της ευεξίας."
+      },
+      "ru": {
+        "name": "Image Beauty Massage",
+        "shortDescription": "Профессиональный массаж и спа: соляная пещера, джакузи, уход за лицом и телом.",
+        "description": "Image Beauty Massage в Протарасе предлагает широкий выбор процедур: соляная пещера, джакузи, хаммам, уход за лицом, скраб тела, рефлексология и антицеллюлитный массаж. Опытные специалисты обеспечивают индивидуальный подход и глубокое расслабление в спокойной обстановке — идеальное место для восстановления красоты, баланса и внутренней гармонии."
+      }
+    }
+  },
+  {
+    "id": 19,
+    "slug": "sanctuary-fitness-studio-paralimni",
+    "image": "/beauty/beauty-19.jpg",
+    "city": "Paralimni",
+    "translations": {
+      "en": {
+        "name": "Sanctuary Fitness Studio",
+        "shortDescription": "Women‑only fitness studio in Paralimni offering Les Mills classes, boxing, pilates, personalized empowerment workouts.",
+        "description": "Sanctuary Fitness Studio in Paralimni is a women-only gym offering empowering group workouts like Les Mills, boxing, pilates, and circuit training. With a supportive atmosphere and expert trainers, it’s designed to inspire confidence and strength. Classes suit all fitness levels, helping women feel strong, healthy, and confident in themselves."
+      },
+      "gr": {
+        "name": "Sanctuary Fitness Studio",
+        "shortDescription": "Studio γυναικών στο Παραλίμνι με Les Mills, boxing, pilates και εξατομικευμένες ενδυνάμωσης προπονήσεις.",
+        "description": "Το Sanctuary Fitness Studio στο Παραλίμνι είναι γυμναστήριο μόνο για γυναίκες με προγράμματα όπως Les Mills, boxing, pilates και κυκλική προπόνηση. Σε φιλικό περιβάλλον με έμπειρους προπονητές, βοηθά γυναίκες όλων των επιπέδων να ενδυναμωθούν, να αποκτήσουν αυτοπεποίθηση και να βελτιώσουν την υγεία και φυσική τους κατάσταση."
+      },
+      "ru": {
+        "name": "Sanctuary Fitness Studio",
+        "shortDescription": "Фитнес‑студия только для женщин в Паралимни: Les Mills, бокс, пилатес и персональные тренировки.",
+        "description": "Sanctuary Fitness Studio в Паралимни — фитнес-студия только для женщин, предлагающая тренировки Les Mills, бокс, пилатес и круговые занятия. Здесь дружелюбная атмосфера и опытные тренеры. Подходит для всех уровней подготовки и помогает женщинам укрепить тело, уверенность и общее самочувствие в комфортной, мотивирующей обстановке."
+      }
+    }
+  },
+  {
+    "id": 20,
+    "slug": "ag-barber-shop-protaras",
+    "image": "/beauty/beauty-20.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "Ag Barber Shop",
+        "shortDescription": "Friendly, skilled barbers offering precise fades, trims, and classic cuts in Protaras’s top-rated shop.",
+        "description": "Ag Barber Shop in Protaras offers professional grooming services, including precision fades, classic cuts, beard shaping, and styling. Known for its friendly atmosphere and skilled barbers, it’s a go-to spot for locals and tourists alike. The shop combines modern techniques with traditional care to ensure every client looks their best."
+      },
+      "gr": {
+        "name": "Ag Barber Shop",
+        "shortDescription": "Φιλικοί, έμπειροι κουρείς προσφέρουν ακριβείς fades, κουρέματα και κλασικά χτενίσματα στο κορυφαίο μαγαζί.",
+        "description": "Το Ag Barber Shop στον Πρωταρά προσφέρει επαγγελματικές υπηρεσίες περιποίησης, όπως fades, κλασικά κουρέματα, σχηματισμό γενειάδας και styling. Με φιλική ατμόσφαιρα και έμπειρους κουρείς, αποτελεί αγαπημένο σημείο για ντόπιους και τουρίστες. Συνδυάζει σύγχρονες τεχνικές με παραδοσιακή φροντίδα για άψογο αποτέλεσμα σε κάθε πελάτη."
+      },
+      "ru": {
+        "name": "Ag Barber Shop",
+        "shortDescription": "Дружелюбные, опытные барберы предлагают точные fade, стрижки и классические причёски в лучшем салоне Протараса.",
+        "description": "Ag Barber Shop в Протарасе предлагает профессиональные услуги: точные fade-стрижки, классика, оформление бороды и укладка. Здесь царит дружелюбная атмосфера, а опытные барберы обслуживают как местных жителей, так и туристов. Салон сочетает современные техники с традиционным подходом, обеспечивая идеальный результат каждому клиенту."
+      }
+    }
+  },
+  {
+    "id": 21,
+    "slug": "vip-room-place-of-beauty-paralimni",
+    "image": "/beauty/beauty-21.jpeg",
+    "city": "Paralimni",
+    "translations": {
+      "en": {
+        "name": "ViP room",
+        "shortDescription": "Chic beauty salon in Paralimni offering expert nail, skincare, and wellness services with personalized care.",
+        "description": "ViP Room – Place of Beauty in Paralimni is a stylish salon offering premium nail care, facial treatments, waxing, and wellness services. With a relaxing atmosphere and highly skilled professionals, the salon focuses on personalized attention and quality. It’s the perfect place for those seeking elegance, beauty, and self-care."
+      },
+      "gr": {
+        "name": "ViP room",
+        "shortDescription": "Κομψό ινστιτούτο ομορφιάς στο Παραλίμνι με νυχιών, περιποίηση προσώπου και ευεξίας, με εξατομικευμένη φροντίδα.",
+        "description": "Το ViP Room – Place of Beauty στο Παραλίμνι είναι ένας κομψός χώρος ομορφιάς με εξειδίκευση σε νύχια, περιποίηση προσώπου, αποτρίχωση και υπηρεσίες ευεξίας. Σε χαλαρωτική ατμόσφαιρα, με έμπειρους επαγγελματίες, προσφέρει ποιοτική και εξατομικευμένη φροντίδα για όσους αναζητούν ομορφιά, πολυτέλεια και αυτοφροντίδα."
+      },
+      "ru": {
+        "name": "ViP room",
+        "shortDescription": "Шикарный салон красоты в Паралимни: ногти, уход за кожей и wellness‑услуги с персональным подходом.",
+        "description": "ViP Room – Place of Beauty в Паралимни — стильный салон, предлагающий уход за ногтями, лицом, депиляцию и процедуры для тела. Здесь царит расслабляющая атмосфера, а опытные специалисты обеспечивают индивидуальный подход. Идеальное место для тех, кто ценит красоту, заботу о себе и высокое качество обслуживания."
+      }
+    }
+  }
+]
+
+
