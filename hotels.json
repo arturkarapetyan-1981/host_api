@@ -1,24 +1,484 @@
 [
+    {
+      "id": 1,
+      "slug": "royal-apollonia",
+      "image": "/hotels/hotel-1.jpg",
+      "city": "Limassol",
+      "translations": {
+        "en": {
+          "name": "Royal Apollonia",
+          "shortDescription": "Luxury seafront hotel in Limassol with fine dining, spa, and stunning Mediterranean views.",
+          "description": "The Royal Apollonia in Limassol offers refined beachfront luxury with exceptional hospitality. Guests enjoy elegant rooms, gourmet cuisine, a world-class spa, and panoramic sea views. Whether for a romantic getaway or a relaxing retreat, the hotel provides an unforgettable experience on the southern coast of Cyprus."
+        },
+        "gr": {
+          "name": "Ρόγιαλ Απολλώνια",
+          "shortDescription": "Πολυτελές ξενοδοχείο στη Λεμεσό με γκουρμέ κουζίνα, σπα και θέα στη θάλασσα.",
+          "description": "Το Ρόγιαλ Απολλώνια στη Λεμεσό προσφέρει παραθαλάσσια πολυτέλεια με εξαιρετική φιλοξενία. Οι επισκέπτες απολαμβάνουν κομψά δωμάτια, γαστρονομικές επιλογές, παγκοσμίου επιπέδου σπα και πανοραμική θέα στη Μεσόγειο. Ιδανικό για ρομαντική απόδραση ή χαλαρωτικές διακοπές στην νότια Κύπρο."
+        },
+        "ru": {
+          "name": "Роял Аполлония",
+          "shortDescription": "Роскошный отель в Лимассоле с изысканной кухней, спа и видом на море.",
+          "description": "Роял Аполлония в Лимассоле предлагает элегантный отдых у моря с безупречным сервисом. Просторные номера, гастрономические рестораны, первоклассный спа и великолепные виды на Средиземное море создают идеальные условия для романтического отдыха или расслабляющих каникул на юге Кипра."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "slug": "golden-bay-beach-hotel",
+      "image": "/hotels/hotel-2.jpg",
+      "city": "Larnaca",
+      "translations": {
+        "en": {
+          "name": "Golden Bay Beach Hotel",
+          "shortDescription": "5-star beachfront hotel in Larnaca with luxury rooms, gourmet dining, and spa services.",
+          "description": "Golden Bay Beach Hotel in Larnaca is a premier 5-star resort on the eastern coast of Cyprus. With its luxurious rooms, fine restaurants, wellness spa, and direct beach access, it provides the perfect setting for relaxation, romance, or family holidays. Experience elite hospitality and Mediterranean elegance."
+        },
+        "gr": {
+          "name": "Ξενοδοχείο Γκόλντεν Μπέι Μπιτς",
+          "shortDescription": "Πεντάστερο παραθαλάσσιο ξενοδοχείο στη Λάρνακα με πολυτελή δωμάτια και υπηρεσίες σπα.",
+          "description": "Το Ξενοδοχείο Γκόλντεν Μπέι Μπιτς στη Λάρνακα είναι ένα κορυφαίο πεντάστερο θέρετρο στην ανατολική ακτή της Κύπρου. Με πολυτελή δωμάτια, εκλεκτή κουζίνα, σπα ευεξίας και άμεση πρόσβαση στην παραλία, προσφέρει ιδανικό περιβάλλον για χαλάρωση, ρομαντισμό ή οικογενειακές διακοπές."
+        },
+        "ru": {
+          "name": "Отель Голден Бэй Бич",
+          "shortDescription": "Пятизвёздочный отель у моря в Ларнаке с люксами, ресторанами и спа.",
+          "description": "Отель Голден Бэй Бич в Ларнаке — элитный пятизвёздочный курорт на восточном побережье Кипра. Роскошные номера, изысканная кухня, велнес-спа и прямой выход к морю делают его идеальным местом для отдыха, романтики или семейного отпуска. Насладитесь настоящим гостеприимством и средиземноморской элегантностью."
+        }
+      }
+    },
+    {
+    "id": 3,
+    "slug": "adams-beach-hotel-and-spa",
+    "image": "/hotels/hotel-3.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "Adams Beach Hotel & Spa",
+        "shortDescription": "5-star beachfront resort in Ayia Napa with lagoon pools, restaurants, spa, and family suites.",
+        "description": "Adams Beach Hotel & Spa in Ayia Napa is a luxury 5-star resort located on the famous Nissi Bay. It features expansive lagoon-style pools, a full-service spa, diverse dining options, and family-friendly accommodations. Perfect for couples, families, and weddings, it delivers relaxation and Cypriot hospitality."
+      },
+      "gr": {
+        "name": "Ξενοδοχείο & Σπα Άνταμς Μπιτς",
+        "shortDescription": "Πεντάστερο θέρετρο στην Αγία Νάπα με λιμνοθάλασσες, σπα, εστιατόρια και οικογενειακές σουίτες.",
+        "description": "Το Ξενοδοχείο & Σπα Άνταμς Μπιτς στην Αγία Νάπα είναι ένα πολυτελές πεντάστερο θέρετρο στον διάσημο Κόλπο Νησί. Διαθέτει πισίνες τύπου λιμνοθάλασσας, πλήρες σπα, ποικιλία εστιατορίων και άνετα οικογενειακά δωμάτια. Ιδανικό για ζευγάρια, οικογένειες και γάμους με αυθεντική κυπριακή φιλοξενία."
+      },
+      "ru": {
+        "name": "Отель и Спа Адамс Бич",
+        "shortDescription": "Пятизвёздочный курорт в Айя-Напе с лагунами, ресторанами, спа и семейными номерами.",
+        "description": "Отель и Спа Адамс Бич в Айя-Напе — роскошный пятизвёздочный курорт на знаменитом пляже Нисси-Бич. К услугам гостей бассейны-лагуны, спа-центр, разнообразные рестораны и семейные номера. Идеален для пар, семей и свадеб, он предлагает отдых с кипрским гостеприимством и комфортом."
+      }
+    }
+  },
   {
-    "id": 1,
-    "slug": "sunny-hotel-limassol",
-    "image": "/hotels/sunny-hotel.jpg",
+  "id": 4,
+  "slug": "amarande-hotel",
+  "image": "/hotels/hotel-4.jpg",
+  "city": "Ayia Napa",
+  "translations": {
+    "en": {
+      "name": "Amarande",
+      "shortDescription": "Adults-only luxury hotel in Ayia Napa with sea views, fine dining, and wellness facilities.",
+      "description": "Amarande in Ayia Napa is a 5-star adults-only hotel offering modern elegance and tranquility. Just a short walk from the beach and city center, it features stylish rooms, gourmet restaurants, a wellness spa, and panoramic views. Ideal for couples seeking a relaxing and romantic retreat in Cyprus."
+    },
+    "gr": {
+      "name": "Αμαράντε",
+      "shortDescription": "Πολυτελές ξενοδοχείο μόνο για ενήλικες στην Αγία Νάπα με θέα θάλασσα και σπα.",
+      "description": "Το Αμαράντε στην Αγία Νάπα είναι ένα πεντάστερο ξενοδοχείο μόνο για ενήλικες που προσφέρει μοντέρνα κομψότητα και ηρεμία. Μόλις λίγα βήματα από την παραλία και το κέντρο, διαθέτει κομψά δωμάτια, γκουρμέ κουζίνα, σπα ευεξίας και πανοραμική θέα. Ιδανικό για ζευγάρια που αναζητούν ρομαντική απόδραση."
+    },
+    "ru": {
+      "name": "Амаранде",
+      "shortDescription": "Роскошный отель только для взрослых в Айя-Напе с видом на море и спа.",
+      "description": "Amarande в Айя-Напе — это пятизвёздочный отель только для взрослых, сочетающий современный стиль и спокойствие. В нескольких минутах от пляжа и центра города, он предлагает элегантные номера, изысканную кухню, спа и панорамный вид на море. Идеален для романтического отдыха на Кипре."
+    }
+  }
+  },
+  {
+    "id": 5,
+    "slug": "cavo-maris-beach-hotel-suites",
+    "image": "/hotels/hotel-5.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "Cavo Maris Beach Hotel & Suites",
+        "shortDescription": "Modern beachfront hotel in Protaras offering suites, pools, dining, and sea views.",
+        "description": "Cavo Maris Beach Hotel & Suites in Protaras provides contemporary comfort just steps from the beach. Guests enjoy spacious suites, multiple swimming pools, diverse restaurants, and stunning views of the Mediterranean Sea. Ideal for families, couples, and travelers seeking a vibrant coastal getaway."
+      },
+      "gr": {
+        "name": "Ξενοδοχείο & Σουίτες Κάβο Μάρις",
+        "shortDescription": "Σύγχρονο παραθαλάσσιο ξενοδοχείο στο Προάρα με σουίτες, πισίνες, εστιατόρια και θέα θάλασσα.",
+        "description": "Το Ξενοδοχείο & Σουίτες Κάβο Μάρις στο Προάρα προσφέρει σύγχρονη άνεση λίγα βήματα από την παραλία. Οι επισκέπτες απολαμβάνουν ευρύχωρες σουίτες, πολλαπλές πισίνες, ποικιλία εστιατορίων και εκπληκτική θέα στη Μεσόγειο. Ιδανικό για οικογένειες, ζευγάρια και ταξιδιώτες που αναζητούν ζωντανές παραθαλάσσιες διακοπές."
+      },
+      "ru": {
+        "name": "Отель и Сьюты Каво Марис",
+        "shortDescription": "Современный отель у моря в Протарасе с сьютами, бассейнами, ресторанами и видом на море.",
+        "description": "Отель и Сьюты Каво Марис в Протарасе предлагает современный комфорт в нескольких шагах от пляжа. Гости могут наслаждаться просторными сьютами, несколькими бассейнами, разнообразными ресторанами и великолепным видом на Средиземное море. Отличный выбор для семей, пар и путешественников, ищущих живой пляжный отдых."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "slug": "venus-beach-hotel",
+    "image": "/hotels/hotel-6.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Venus Beach Hotel",
+        "shortDescription": "Elegant beachfront hotel in Paphos with spacious rooms, pools, dining, and sea views near Tombs of the Kings.",
+        "description": "Venus Beach Hotel in Paphos is a refined seaside resort offering comfortable accommodations next to the famous Tombs of the Kings. Guests can enjoy relaxing pools, international cuisine, a wellness center, and panoramic views of the Mediterranean. Perfect for couples, families, and history enthusiasts."
+      },
+      "gr": {
+        "name": "Ξενοδοχείο Venus Beach",
+        "shortDescription": "Κομψό παραθαλάσσιο ξενοδοχείο στην Πάφο με ευρύχωρα δωμάτια, πισίνες, φαγητό και θέα στη θάλασσα, κοντά στους Τάφους των Βασιλέων.",
+        "description": "Το ξενοδοχείο Venus Beach στην Πάφο είναι ένα εκλεπτυσμένο παραθαλάσσιο θέρετρο που προσφέρει άνετη διαμονή δίπλα στους διάσημους Τάφους των Βασιλέων. Οι επισκέπτες απολαμβάνουν χαλαρωτικές πισίνες, διεθνή κουζίνα, κέντρο ευεξίας και πανοραμική θέα στη Μεσόγειο. Ιδανικό για ζευγάρια, οικογένειες και λάτρεις της ιστορίας."
+      },
+      "ru": {
+        "name": "Отель Венус Бич",
+        "shortDescription": "Элегантный отель у моря в Пафосе с просторными номерами, бассейнами, ресторанами и видом на море рядом с Гробницами Царей.",
+        "description": "Отель Venus Beach в Пафосе — это изысканный прибрежный курорт, предлагающий комфортное размещение рядом с известными Гробницами Царей. Гости могут наслаждаться бассейнами, интернациональной кухней, велнес-центром и панорамным видом на Средиземное море. Отличный выбор для пар, семей и любителей истории."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "slug": "hotel-napa-suites",
+    "image": "/hotels/hotel-7.jpg",
+    "city": "Ayia Napa",
+    "translations": {
+      "en": {
+        "name": "Hotel Napa Suites",
+        "shortDescription": "Stylish adults-only hotel in Ayia Napa with rooftop infinity pool, modern rooms, and panoramic views.",
+        "description": "Hotel Napa Suites in Ayia Napa is a trendy adults-only hotel offering contemporary design, cutting-edge technology, and exceptional service. Featuring a rooftop infinity pool and SkyBar with stunning sea and city views, it’s perfect for couples and solo travelers seeking a luxurious, modern escape."
+      },
+      "gr": {
+        "name": "Ξενοδοχείο Napa Suites",
+        "shortDescription": "Μοντέρνο ξενοδοχείο μόνο για ενήλικες στην Αγία Νάπα με πισίνα υπερχείλισης στην ταράτσα, σύγχρονα δωμάτια και πανοραμική θέα.",
+        "description": "Το ξενοδοχείο Napa Suites στην Αγία Νάπα είναι ένα στιλάτο ξενοδοχείο μόνο για ενήλικες με σύγχρονο σχεδιασμό, προηγμένη τεχνολογία και εξαιρετική εξυπηρέτηση. Διαθέτει πισίνα υπερχείλισης και SkyBar στην ταράτσα με εκπληκτική θέα στη θάλασσα και την πόλη – ιδανικό για ζευγάρια και μεμονωμένους ταξιδιώτες που αναζητούν πολυτελείς, μοντέρνες διακοπές."
+      },
+      "ru": {
+        "name": "Отель Напа Сьютс",
+        "shortDescription": "Стильный отель только для взрослых в Айя-Напе с инфинити-бассейном на крыше, современными номерами и панорамными видами.",
+        "description": "Отель Napa Suites в Айя-Напе — это модный отель только для взрослых с современным дизайном, новейшими технологиями и высоким уровнем сервиса. В отеле есть инфинити-бассейн и SkyBar на крыше с потрясающим видом на море и город. Идеально подходит для пар и одиночных путешественников, ищущих современный роскошный отдых."
+      }
+    }
+  },
+ {
+    "id": 8,
+    "slug": "alexander-the-great-beach-hotel",
+    "image": "/hotels/hotel-8.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Alexander The Great Beach Hotel",
+        "shortDescription": "Upscale beachfront resort in Paphos offering elegant rooms, pools, fine dining, and direct beach access.",
+        "description": "Alexander The Great Beach Hotel in Paphos is a luxurious resort situated on a Blue Flag beach, close to the picturesque harbor. Guests enjoy beautifully furnished rooms, infinity and indoor pools, gourmet restaurants, and a relaxing spa. Ideal for romantic getaways, weddings, and family vacations."
+      },
+      "gr": {
+        "name": "Ξενοδοχείο Alexander The Great Beach",
+        "shortDescription": "Πολυτελές παραθαλάσσιο θέρετρο στην Πάφο με κομψά δωμάτια, πισίνες, εκλεκτή κουζίνα και άμεση πρόσβαση στην παραλία.",
+        "description": "Το Alexander The Great Beach Hotel στην Πάφο είναι ένα πολυτελές θέρετρο πάνω σε παραλία με Γαλάζια Σημαία, κοντά στο γραφικό λιμάνι. Οι επισκέπτες απολαμβάνουν κομψά επιπλωμένα δωμάτια, πισίνες υπερχείλισης και εσωτερικές, γκουρμέ εστιατόρια και ένα χαλαρωτικό σπα. Ιδανικό για ρομαντικές αποδράσεις, γάμους και οικογενειακές διακοπές."
+      },
+      "ru": {
+        "name": "Отель Александр Великий Бич",
+        "shortDescription": "Роскошный курорт у пляжа в Пафосе с элегантными номерами, бассейнами, изысканными ресторанами и прямым выходом к морю.",
+        "description": "Alexander The Great Beach Hotel в Пафосе — это роскошный курорт на пляже с Голубым флагом, рядом с живописной гаванью. Гостям предлагают стильно оформленные номера, инфинити- и крытые бассейны, рестораны высокой кухни и спа-салон. Отличный выбор для романтических поездок, свадеб и семейного отдыха."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "slug": "city-of-dreams-mediterranean",
+    "image": "/hotels/hotel-9.jpg",
     "city": "Limassol",
     "translations": {
       "en": {
-        "name": "Sunny Hotel",
-        "shortDescription": "A luxury hotel near the beach.",
-        "description": "Enjoy your stay at Sunny Hotel with sea views, spa, and world-class service."
+        "name": "City of Dreams Mediterranean",
+        "shortDescription": "Luxury integrated resort in Limassol featuring a casino, fine dining, premium rooms, pools, and entertainment.",
+        "description": "City of Dreams Mediterranean is Europe’s first integrated resort, located in Limassol. This 5-star destination offers a world-class casino, upscale accommodation, signature restaurants, wellness facilities, and vibrant entertainment options. A landmark experience ideal for couples, business travelers, and leisure seekers."
       },
       "gr": {
-        "name": "Ξενοδοχείο Sunny",
-        "shortDescription": "Ένα πολυτελές ξενοδοχείο κοντά στην παραλία.",
-        "description": "Απολαύστε τη διαμονή σας με θέα στη θάλασσα, σπα και άριστη εξυπηρέτηση."
+        "name": "City of Dreams Mediterranean",
+        "shortDescription": "Πολυτελές ολοκληρωμένο θέρετρο στη Λεμεσό με καζίνο, εκλεκτή γαστρονομία, πολυτελή δωμάτια, πισίνες και ψυχαγωγία.",
+        "description": "Το City of Dreams Mediterranean είναι το πρώτο ολοκληρωμένο θέρετρο της Ευρώπης και βρίσκεται στη Λεμεσό. Αυτός ο 5άστερος προορισμός προσφέρει παγκοσμίου κλάσης καζίνο, πολυτελή διαμονή, εστιατόρια υψηλής γαστρονομίας, εγκαταστάσεις ευεξίας και έντονη ψυχαγωγία. Ιδανικό για ζευγάρια, επαγγελματίες ταξιδιώτες και όσους αναζητούν πολυτελή απόδραση."
       },
       "ru": {
-        "name": "Санни Отель",
-        "shortDescription": "Роскошный отель у моря.",
-        "description": "Наслаждайтесь пребыванием с видом на море, спа и первоклассным сервисом."
+        "name": "City of Dreams Mediterranean",
+        "shortDescription": "Роскошный курорт в Лимассоле с казино, изысканными ресторанами, премиальными номерами, бассейнами и развлечениями.",
+        "description": "City of Dreams Mediterranean — первый в Европе интегрированный курорт, расположенный в Лимассоле. Курорт предлагает казино мирового уровня, роскошные номера, фирменные рестораны, велнес-услуги и разнообразные развлечения. Идеальное место для пар, деловых путешественников и отдыхающих в поисках ярких впечатлений."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "slug": "leonardo-boutique-hotel-larnaca",
+    "image": "/hotels/hotel-10.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "Leonardo Boutique Hotel Larnaca",
+        "shortDescription": "Chic boutique hotel in the heart of Larnaca offering stylish rooms, rooftop bar, and easy access to Finikoudes Beach.",
+        "description": "Leonardo Boutique Hotel Larnaca blends contemporary design with warm hospitality in a prime city-center location. Guests enjoy elegant rooms, a rooftop lounge with panoramic views, a fitness center, and close proximity to cultural landmarks and the beach. Ideal for urban explorers and business travelers alike."
+      },
+      "gr": {
+        "name": "Leonardo Boutique Hotel Λάρνακα",
+        "shortDescription": "Κομψό boutique ξενοδοχείο στο κέντρο της Λάρνακας με μοντέρνα δωμάτια, rooftop bar και άμεση πρόσβαση στην παραλία Φοινικούδες.",
+        "description": "Το Leonardo Boutique Hotel Λάρνακα συνδυάζει σύγχρονο σχεδιασμό με ζεστή φιλοξενία στην καρδιά της πόλης. Οι επισκέπτες απολαμβάνουν κομψά δωμάτια, lounge στην ταράτσα με πανοραμική θέα, γυμναστήριο και άμεση πρόσβαση σε πολιτιστικά αξιοθέατα και την παραλία. Ιδανικό για αστικούς εξερευνητές και επαγγελματίες ταξιδιώτες."
+      },
+      "ru": {
+        "name": "Бутик-отель Леонардо Ларнака",
+        "shortDescription": "Элегантный бутик-отель в центре Ларнаки с современными номерами, баром на крыше и удобным доступом к пляжу Финикудес.",
+        "description": "Leonardo Boutique Hotel Larnaca сочетает в себе современный стиль и тёплый приём в отличном месте в центре города. Гостям предлагаются стильные номера, лаундж на крыше с панорамным видом, фитнес-зал и близость к достопримечательностям и пляжу. Идеально подходит для городских путешественников и деловых гостей."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "slug": "mercure-larnaca-beach-resort",
+    "image": "/hotels/hotel-11.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "Mercure Larnaca Beach Resort",
+        "shortDescription": "Modern beachfront resort in Larnaca with elegant rooms, outdoor pool, dining options, and sea views.",
+        "description": "Mercure Larnaca Beach Resort offers a contemporary seaside experience in Larnaca, combining comfort and style. Guests enjoy spacious rooms, a refreshing outdoor pool, Mediterranean cuisine, and direct access to a serene beach. Ideal for families, couples, and leisure travelers looking for a relaxing coastal stay."
+      },
+      "gr": {
+        "name": "Mercure Larnaca Beach Resort",
+        "shortDescription": "Σύγχρονο παραθαλάσσιο θέρετρο στη Λάρνακα με κομψά δωμάτια, εξωτερική πισίνα, επιλογές φαγητού και θέα στη θάλασσα.",
+        "description": "Το Mercure Larnaca Beach Resort προσφέρει μια σύγχρονη παραθαλάσσια εμπειρία στη Λάρνακα, συνδυάζοντας άνεση και στυλ. Οι επισκέπτες απολαμβάνουν ευρύχωρα δωμάτια, δροσιστική εξωτερική πισίνα, μεσογειακή κουζίνα και άμεση πρόσβαση σε μια ήσυχη παραλία. Ιδανικό για οικογένειες, ζευγάρια και ταξιδιώτες αναψυχής που αναζητούν χαλάρωση."
+      },
+      "ru": {
+        "name": "Курорт Mercure Larnaca Beach",
+        "shortDescription": "Современный курорт у моря в Ларнаке с элегантными номерами, открытым бассейном, ресторанами и видом на море.",
+        "description": "Mercure Larnaca Beach Resort предлагает современный отдых у моря в Ларнаке, сочетая комфорт и стиль. Гости наслаждаются просторными номерами, открытым бассейном, средиземноморской кухней и прямым выходом на спокойный пляж. Идеально подходит для семей, пар и путешественников, ищущих расслабляющий прибрежный отдых."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "slug": "mercure-larnaka-finikoudes-beach-hotel",
+    "image": "/hotels/hotel-12.jpg",
+    "city": "Larnaca",
+    "translations": {
+      "en": {
+        "name": "Mercure Larnaka Finikoudes Beach Hotel",
+        "shortDescription": "Modern hotel on Larnaca’s Finikoudes Beach with stylish rooms, rooftop pool, and sea views.",
+        "description": "Mercure Larnaka Finikoudes Beach Hotel enjoys a prime location right on the popular Finikoudes promenade. Guests are welcomed with contemporary rooms, a rooftop pool and bar, and breathtaking views of the Mediterranean Sea. Perfect for beach lovers, city explorers, and business travelers seeking comfort and convenience."
+      },
+      "gr": {
+        "name": "Mercure Larnaka Finikoudes Beach Hotel",
+        "shortDescription": "Σύγχρονο ξενοδοχείο στην παραλία Φοινικούδες της Λάρνακας με κομψά δωμάτια, rooftop πισίνα και θέα στη θάλασσα.",
+        "description": "Το Mercure Larnaka Finikoudes Beach Hotel βρίσκεται σε προνομιακή τοποθεσία στην πολυσύχναστη παραλία Φοινικούδες. Προσφέρει σύγχρονα δωμάτια, πισίνα και μπαρ στην ταράτσα και εκπληκτική θέα στη Μεσόγειο. Ιδανικό για λάτρεις της παραλίας, εξερευνητές της πόλης και επαγγελματίες ταξιδιώτες που αναζητούν άνεση και ευκολία."
+      },
+      "ru": {
+        "name": "Отель Mercure Larnaka Finikoudes Beach",
+        "shortDescription": "Современный отель на пляже Финикудес в Ларнаке с стильными номерами, бассейном на крыше и видом на море.",
+        "description": "Отель Mercure Larnaka Finikoudes Beach расположен на знаменитой набережной Финикудес. К услугам гостей современные номера, бассейн и бар на крыше, а также потрясающий вид на Средиземное море. Отличный выбор для любителей пляжного отдыха, городских путешествий и деловых поездок."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "slug": "tui-blue-nausicaa-beach-by-louis-hotels",
+    "image": "/hotels/hotel-13.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "TUI Blue Nausicaa Beach by Louis Hotels",
+        "shortDescription": "Family-friendly beachfront resort in Protaras with suites, pools, dining, and direct access to Fig Tree Bay.",
+        "description": "TUI Blue Nausicaa Beach by Louis Hotels is a welcoming beachfront resort located on the stunning Fig Tree Bay in Protaras. It offers spacious suites, lush gardens, outdoor pools, and diverse dining experiences. With kids’ facilities, wellness options, and scenic surroundings, it’s perfect for families and couples seeking a relaxing seaside escape."
+      },
+      "gr": {
+        "name": "TUI Blue Nausicaa Beach by Louis Hotels",
+        "shortDescription": "Οικογενειακό παραθαλάσσιο θέρετρο στον Πρωταρά με σουίτες, πισίνες, εστιατόρια και άμεση πρόσβαση στον κόλπο της Συκιάς.",
+        "description": "Το TUI Blue Nausicaa Beach by Louis Hotels είναι ένα φιλόξενο παραθαλάσσιο θέρετρο στον εντυπωσιακό κόλπο της Συκιάς στον Πρωταρά. Προσφέρει ευρύχωρες σουίτες, καταπράσινους κήπους, εξωτερικές πισίνες και ποικιλία γευστικών επιλογών. Με εγκαταστάσεις για παιδιά, επιλογές ευεξίας και μαγευτικό περιβάλλον, είναι ιδανικό για οικογένειες και ζευγάρια που αναζητούν χαλαρωτικές διακοπές δίπλα στη θάλασσα."
+      },
+      "ru": {
+        "name": "TUI Blue Nausicaa Beach от Louis Hotels",
+        "shortDescription": "Семейный курорт у моря в Протарасе с сьютами, бассейнами, ресторанами и выходом к заливу Фиг-Три.",
+        "description": "TUI Blue Nausicaa Beach от Louis Hotels — это уютный курорт на берегу залива Фиг-Три в Протарасе. Курорт предлагает просторные сьюты, зелёные сады, открытые бассейны и разнообразное питание. С удобствами для детей, зонами отдыха и живописной природой — идеален для семей и пар, ищущих спокойный отдых у моря."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "slug": "louis-st-elias-resort-waterpark",
+    "image": "/hotels/hotel-14.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "Louis St. Elias Resort & Waterpark",
+        "shortDescription": "Family-friendly resort in Protaras featuring a waterpark, spacious suites, restaurants, and hilltop views.",
+        "description": "Louis St. Elias Resort & Waterpark in Protaras offers a fun-filled holiday experience for families and couples. Located on a hillside overlooking the sea, the resort features a waterpark with slides, spacious suites, all-day dining, and wellness facilities. Just a short distance from Fig Tree Bay, it’s ideal for an active yet relaxing escape."
+      },
+      "gr": {
+        "name": "Louis St. Elias Resort & Waterpark",
+        "shortDescription": "Οικογενειακό θέρετρο στον Πρωταρά με υδάτινο πάρκο, ευρύχωρες σουίτες, εστιατόρια και θέα από λόφο.",
+        "description": "Το Louis St. Elias Resort & Waterpark στον Πρωταρά προσφέρει διακοπές γεμάτες διασκέδαση για οικογένειες και ζευγάρια. Βρίσκεται σε λόφο με θέα στη θάλασσα και διαθέτει υδάτινο πάρκο με νεροτσουλήθρες, ευρύχωρες σουίτες, γεύματα όλη μέρα και εγκαταστάσεις ευεξίας. Σε κοντινή απόσταση από τον κόλπο της Συκιάς, είναι ιδανικό για δραστήριες αλλά και χαλαρές διακοπές."
+      },
+      "ru": {
+        "name": "Louis St. Elias Resort & Водный Парк",
+        "shortDescription": "Семейный курорт в Протарасе с аквапарком, просторными сьютами, ресторанами и видом с холма.",
+        "description": "Louis St. Elias Resort & Waterpark в Протарасе — отличный выбор для семейного отдыха и отдыха парами. Курорт расположен на холме с видом на море и предлагает аквапарк с горками, просторные сьюты, питание в течение дня и велнес-услуги. Всего в нескольких минутах от залива Фиг-Три — идеально для активного и расслабленного отдыха."
+      }
+    }
+  },
+  {
+    "id": 15,
+    "slug": "louis-infinity-blu",
+    "image": "/hotels/hotel-15.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "Louis Infinity Blu",
+        "shortDescription": "Adults-only beachfront hotel in Protaras with modern suites, sea views, and a tranquil atmosphere.",
+        "description": "Louis Infinity Blu is a stylish adults-only hotel located right on the beachfront in Protaras. With modern, minimalist suites, panoramic sea views, and a calm, sophisticated ambiance, it’s ideal for couples seeking a peaceful retreat. Guests enjoy direct beach access, a serene pool area, and Mediterranean dining options."
+      },
+      "gr": {
+        "name": "Louis Infinity Blu",
+        "shortDescription": "Ξενοδοχείο μόνο για ενήλικες στον Πρωταρά, μπροστά στη θάλασσα, με μοντέρνες σουίτες και ήρεμη ατμόσφαιρα.",
+        "description": "Το Louis Infinity Blu είναι ένα κομψό ξενοδοχείο μόνο για ενήλικες, μπροστά στη θάλασσα στον Πρωταρά. Με μοντέρνες, μινιμαλιστικές σουίτες, πανοραμική θέα στη θάλασσα και γαλήνια ατμόσφαιρα, είναι ιδανικό για ζευγάρια που αναζητούν μια ήρεμη απόδραση. Οι επισκέπτες απολαμβάνουν άμεση πρόσβαση στην παραλία, χαλαρωτική πισίνα και μεσογειακή κουζίνα."
+      },
+      "ru": {
+        "name": "Louis Infinity Blu",
+        "shortDescription": "Отель только для взрослых у пляжа в Протарасе с современными сьютами, видом на море и спокойной атмосферой.",
+        "description": "Louis Infinity Blu — стильный отель только для взрослых, расположенный прямо на берегу в Протарасе. Современные минималистичные сьюты, панорамные виды на море и спокойная обстановка делают его идеальным для пар, ищущих уединённый отдых. В отеле есть прямой выход к пляжу, расслабляющая зона с бассейном и средиземноморская кухня."
+      }
+    }
+  },
+  {
+    "id": 16,
+    "slug": "castelli-hotel-nicosia",
+    "image": "/hotels/hotel-16.jpg",
+    "city": "Nicosia",
+    "translations": {
+      "en": {
+        "name": "Castelli Hotel Nicosia",
+        "shortDescription": "Charming city hotel in the heart of Nicosia offering comfort, convenience, and Cypriot hospitality.",
+        "description": "Castelli Hotel Nicosia is a cozy boutique hotel located in the historic center of Cyprus’s capital. Perfect for business and leisure travelers alike, it features classic-style rooms, a welcoming atmosphere, and easy access to the city’s cultural landmarks, shopping streets, and dining venues. A warm Cypriot experience in the heart of Nicosia."
+      },
+      "gr": {
+        "name": "Ξενοδοχείο Castelli Λευκωσία",
+        "shortDescription": "Γοητευτικό ξενοδοχείο στο κέντρο της Λευκωσίας που προσφέρει άνεση, ευκολία και κυπριακή φιλοξενία.",
+        "description": "Το Ξενοδοχείο Castelli Λευκωσία είναι ένα φιλόξενο boutique ξενοδοχείο στο ιστορικό κέντρο της πρωτεύουσας της Κύπρου. Ιδανικό για επαγγελματίες και ταξιδιώτες αναψυχής, προσφέρει δωμάτια κλασικού στυλ, ζεστή ατμόσφαιρα και άμεση πρόσβαση σε πολιτιστικά αξιοθέατα, εμπορικούς δρόμους και χώρους εστίασης της πόλης."
+      },
+      "ru": {
+        "name": "Отель Кастелли Никосия",
+        "shortDescription": "Уютный городской отель в центре Никосии с комфортом, удобством и кипрским гостеприимством.",
+        "description": "Отель Castelli Nicosia — это уютный бутик-отель в историческом центре столицы Кипра. Идеально подходит для деловых и туристических поездок: предлагает классические номера, теплую атмосферу и легкий доступ к культурным достопримечательностям, торговым улицам и ресторанам Никосии."
+      }
+    }
+  },
+  {
+    "id": 17,
+    "slug": "asty-hotel-nicosia",
+    "image": "/hotels/hotel-17.jpg",
+    "city": "Nicosia",
+    "translations": {
+      "en": {
+        "name": "Asty Hotel Nicosia",
+        "shortDescription": "Budget-friendly hotel in a quiet area of Nicosia offering comfort, free amenities, and friendly service.",
+        "description": "Asty Hotel Nicosia is a welcoming and affordable hotel located in a peaceful neighborhood near the center of Nicosia. Known for its warm hospitality, the hotel offers clean and comfortable rooms, complimentary breakfast, free Wi-Fi, and bicycle rentals. It’s an excellent choice for travelers seeking value and convenience in the capital."
+      },
+      "gr": {
+        "name": "Ξενοδοχείο Asty Λευκωσία",
+        "shortDescription": "Οικονομικό ξενοδοχείο σε ήσυχη περιοχή της Λευκωσίας με άνεση, δωρεάν παροχές και φιλική εξυπηρέτηση.",
+        "description": "Το Ξενοδοχείο Asty στη Λευκωσία είναι ένα φιλόξενο και οικονομικό κατάλυμα σε μια ήσυχη γειτονιά κοντά στο κέντρο. Γνωστό για τη ζεστή φιλοξενία του, προσφέρει καθαρά και άνετα δωμάτια, δωρεάν πρωινό, Wi-Fi και ποδήλατα. Ιδανικό για ταξιδιώτες που αναζητούν άνεση και οικονομία στην πρωτεύουσα."
+      },
+      "ru": {
+        "name": "Отель Асти Никосия",
+        "shortDescription": "Недорогой отель в тихом районе Никосии с комфортом, бесплатными удобствами и дружелюбным сервисом.",
+        "description": "Отель Asty Nicosia — это доступный и уютный отель в спокойном районе недалеко от центра столицы. Гостей ждут чистые и комфортные номера, бесплатный завтрак, Wi-Fi и аренда велосипедов. Отличный выбор для тех, кто ищет экономичный и удобный вариант в Никосии."
+      }
+    }
+  },
+  {
+    "id": 18,
+    "slug": "amara-hotel",
+    "image": "/hotels/hotel-18.jpg",
+    "city": "Limassol",
+    "translations": {
+      "en": {
+        "name": "Amara Hotel",
+        "shortDescription": "A stylish seafront retreat with infinity pools and gourmet restaurants.",
+        "description": "Amara Hotel in Limassol offers a chic and modern escape with panoramic Mediterranean views, elegant suites, and top-tier amenities. Guests can unwind at the spa, swim in the infinity pool, or dine at internationally acclaimed restaurants."
+      },
+      "gr": {
+        "name": "Ξενοδοχείο Αμάρα",
+        "shortDescription": "Κομψό καταφύγιο δίπλα στη θάλασσα με πισίνες και γκουρμέ εστιατόρια.",
+        "description": "Το Amara Hotel στη Λεμεσό προσφέρει μια μοντέρνα απόδραση με πανοραμική θέα στη Μεσόγειο, κομψές σουίτες και κορυφαίες ανέσεις. Οι επισκέπτες μπορούν να χαλαρώσουν στο σπα, να κολυμπήσουν στην πισίνα ή να δειπνήσουν σε βραβευμένα εστιατόρια."
+      },
+      "ru": {
+        "name": "Отель Амара",
+        "shortDescription": "Элегантный отель у моря с панорамными бассейнами и рестораном высокого класса.",
+        "description": "Отель Amara в Лимассоле — это стильный отдых с видом на Средиземное море, элегантными номерами и первоклассным сервисом. Гости могут расслабиться в спа, поплавать в бескрайних бассейнах или отведать блюда в лучших ресторанах."
+      }
+    }
+  },
+  {
+    "id": 19,
+    "slug": "cleopatra-hotel-nicosia",
+    "image": "/hotels/hotel-19.jpg",
+    "city": "Nicosia",
+    "translations": {
+      "en": {
+        "name": "Cleopatra Hotel Nicosia",
+        "shortDescription": "Elegant 4-star hotel in central Nicosia with a pool, spa, and business facilities.",
+        "description": "Cleopatra Hotel is a well-established 4-star hotel located in the heart of Nicosia. It features stylish rooms, a relaxing spa, outdoor swimming pool, and conference amenities, making it ideal for both business and leisure travelers. Guests enjoy fine dining, wellness treatments, and easy access to shops, museums, and the old city."
+      },
+      "el": {
+        "name": "Ξενοδοχείο Cleopatra Λευκωσία",
+        "shortDescription": "Κομψό ξενοδοχείο 4 αστέρων στο κέντρο της Λευκωσίας με πισίνα, σπα και επαγγελματικές παροχές.",
+        "description": "Το Ξενοδοχείο Cleopatra είναι ένα καθιερωμένο ξενοδοχείο 4 αστέρων στην καρδιά της Λευκωσίας. Διαθέτει κομψά δωμάτια, χαλαρωτικό σπα, εξωτερική πισίνα και αίθουσες συνεδριάσεων, ιδανικό για επαγγελματικά και τουριστικά ταξίδια. Οι επισκέπτες απολαμβάνουν εκλεκτή κουζίνα, υπηρεσίες ευεξίας και άμεση πρόσβαση σε καταστήματα, μουσεία και την παλιά πόλη."
+      },
+      "ru": {
+        "name": "Отель Клеопатра Никосия",
+        "shortDescription": "Элегантный 4-звездочный отель в центре Никосии с бассейном, спа и бизнес-услугами.",
+        "description": "Отель Cleopatra — это престижный 4-звездочный отель, расположенный в самом центре Никосии. В отеле стильные номера, спа-центр, открытый бассейн и конференц-залы — всё, что нужно для деловых поездок и отдыха. Гости наслаждаются изысканной кухней, спа-процедурами и близостью к магазинам, музеям и старому городу."
+      }
+    }
+  },
+  {
+    "id": 20,
+    "slug": "capo-bay-hotel",
+    "image": "/hotels/hotel-20.jpg",
+    "city": "Protaras",
+    "translations": {
+      "en": {
+        "name": "Capo Bay Hotel",
+        "shortDescription": "Modern hotel steps from Fig Tree Bay with beachfront dining and wellness center.",
+        "description": "Capo Bay Hotel in Protaras sits right on the iconic Fig Tree Bay. It offers a wellness center, spacious rooms, and vibrant beachside restaurants. Perfect for couples and families seeking comfort and relaxation."
+      },
+      "gr": {
+        "name": "Ξενοδοχείο Κάπο Μπέι",
+        "shortDescription": "Σύγχρονο ξενοδοχείο κοντά στον Κόλπο της Συκιάς με εστιατόρια και ευεξία.",
+        "description": "Το Capo Bay Hotel στον Πρωταρά βρίσκεται δίπλα στον διάσημο Κόλπο της Συκιάς. Διαθέτει κέντρο ευεξίας, ευρύχωρα δωμάτια και ζωντανά εστιατόρια δίπλα στην παραλία. Ιδανικό για ζευγάρια και οικογένειες."
+      },
+      "ru": {
+        "name": "Отель Капо Бэй",
+        "shortDescription": "Современный отель у залива Фиг Три с ресторанами и центром здоровья.",
+        "description": "Отель Capo Bay в Протарасе расположен прямо на знаменитом пляже Fig Tree Bay. В отеле есть центр здоровья, просторные номера и пляжные рестораны. Идеально подходит для пар и семей."
+      }
+    }
+  },
+  {
+    "id": 21,
+    "slug": "annabelle-hotel",
+    "image": "/hotels/hotel-21.jpg",
+    "city": "Paphos",
+    "translations": {
+      "en": {
+        "name": "Annabelle Hotel",
+        "shortDescription": "Seafront elegance with lush gardens and gourmet cuisine in the heart of Paphos.",
+        "description": "Annabelle Hotel is a timeless luxury destination in Paphos. Surrounded by lush gardens and right on the sea, it offers fine dining, peaceful pools, and warm Cypriot hospitality."
+      },
+      "gr": {
+        "name": "Ξενοδοχείο Ανναμπέλ",
+        "shortDescription": "Παραθαλάσσια κομψότητα με καταπράσινους κήπους και γαστρονομικές επιλογές.",
+        "description": "Το Annabelle Hotel στην Πάφο αποτελεί έναν διαχρονικό προορισμό πολυτέλειας. Περιβάλλεται από καταπράσινους κήπους και βρίσκεται πάνω στη θάλασσα, προσφέροντας εκλεκτή κουζίνα και αυθεντική κυπριακή φιλοξενία."
+      },
+      "ru": {
+        "name": "Отель Аннабель",
+        "shortDescription": "Отель у моря с садами, изысканной кухней и кипрским гостеприимством.",
+        "description": "Отель Annabelle в Пафосе — это воплощение роскоши. Он окружён зелёными садами, находится на берегу моря и предлагает первоклассное питание и тёплую кипрскую атмосферу."
       }
     }
   }
