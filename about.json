@@ -1,0 +1,129 @@
+{
+  "heading": {
+    "en": "About Us",
+    "el": "Σχετικά με εμάς",
+    "ru": "О нас"
+  },
+  "intro": {
+    "en": "Welcome to Welcome To Cyprus, founded in 2024 to make travel and lifestyle services easier and more accessible in Cyprus. Our platform helps you book flights, hotels, cars, and much more — all in one place.",
+    "el": "Καλώς ήρθατε στο Welcome To Cyprus, που ιδρύθηκε το 2024 για να κάνει τις ταξιδιωτικές και τις υπηρεσίες τρόπου ζωής πιο εύκολες και προσιτές στην Κύπρο. Η πλατφόρμα μας σας βοηθά να κλείσετε πτήσεις, ξενοδοχεία, αυτοκίνητα και πολλά άλλα — όλα σε ένα μέρος.",
+    "ru": "Добро пожаловать в Welcome To Cyprus, основанный в 2024 году, чтобы сделать туристические и сервисы для образа жизни проще и доступнее на Кипре. Наша платформа помогает вам бронировать авиабилеты, отели, автомобили и многое другое — всё в одном месте."
+  },
+  "services": [
+    {
+      "title": {
+        "en": "Travels & Tours",
+        "el": "Ταξίδια & Εκδρομές",
+        "ru": "Путешествия и туры"
+      },
+      "description": {
+        "en": "Book unforgettable tours across Cyprus and secure your flights in just a few clicks.",
+        "el": "Κλείστε αξέχαστες εκδρομές σε όλη την Κύπρο και εξασφαλίστε τις πτήσεις σας με λίγα μόνο κλικ.",
+        "ru": "Забронируйте незабываемые туры по Кипру и оформите авиабилеты всего за несколько кликов."
+      },
+      "image": "/about/about-1.jpg"
+    },
+    {
+      "title": {
+        "en": "Hotels Reservation",
+        "el": "Κράτηση Ξενοδοχείων",
+        "ru": "Бронирование отелей"
+      },
+      "description": {
+        "en": "Find and book the perfect hotel for your trip, tailored to your comfort and budget.",
+        "el": "Βρείτε και κλείστε το ιδανικό ξενοδοχείο για το ταξίδι σας, προσαρμοσμένο στην άνεση και τον προϋπολογισμό σας.",
+        "ru": "Найдите и забронируйте идеальный отель для вашей поездки, учитывая ваш комфорт и бюджет."
+      },
+      "image": "/about/about-2.jpg"
+    },
+    {
+      "title": {
+        "en": "Cars Rentals",
+        "el": "Ενοικιάσεις Αυτοκινήτων",
+        "ru": "Аренда автомобилей"
+      },
+      "description": {
+        "en": "Rent cars of various sizes and types — from compact to luxury SUVs.",
+        "el": "Ενοικιάστε αυτοκίνητα διαφόρων μεγεθών και τύπων — από μικρά έως πολυτελή SUV.",
+        "ru": "Арендуйте автомобили разных размеров и типов — от компактных до роскошных внедорожников."
+      },
+      "image": "/about/about-3.jpg"
+    },
+    {
+      "title": {
+        "en": "Beauty Salons Booking",
+        "el": "Κράτηση Σαλόνια Ομορφιάς",
+        "ru": "Запись в салоны красоты"
+      },
+      "description": {
+        "en": "Schedule appointments at top beauty salons before your arrival.",
+        "el": "Κλείστε ραντεβού στα καλύτερα σαλόνια ομορφιάς πριν την άφιξή σας.",
+        "ru": "Запланируйте визит в лучшие салоны красоты до вашего приезда."
+      },
+      "image": "/about/about-4.png"
+    },
+    {
+      "title": {
+        "en": "Tour Guides Booking",
+        "el": "Κράτηση Ξεναγών",
+        "ru": "Заказ экскурсоводов"
+      },
+      "description": {
+        "en": "Hire certified local tour guides to explore Cyprus like a true insider.",
+        "el": "Προσλάβετε πιστοποιημένους τοπικούς ξεναγούς για να εξερευνήσετε την Κύπρο σαν ντόπιος.",
+        "ru": "Нанимайте сертифицированных местных гидов, чтобы исследовать Кипр как настоящий знаток."
+      },
+      "image": "/about/about-5.jpg"
+    },
+    {
+      "title": {
+        "en": "Restaurants Booking",
+        "el": "Κράτηση Εστιατορίων",
+        "ru": "Бронирование ресторанов"
+      },
+      "description": {
+        "en": "Reserve tables at your favorite restaurants in your preferred area and time.",
+        "el": "Κλείστε τραπέζι στα αγαπημένα σας εστιατόρια στην περιοχή και ώρα που προτιμάτε.",
+        "ru": "Забронируйте столики в любимых ресторанах в нужном вам районе и на удобное время."
+      },
+      "image": "/about/about-6.jpg"
+    }
+  ],
+  "principlesTitle": {
+    "en": "Our Principles",
+    "el": "Οι Αρχές μας",
+    "ru": "Наши принципы"
+  },
+  "principles": [
+    {
+      "en": "Organization: We connect all services into one seamless experience.",
+      "el": "Οργάνωση: Συνδέουμε όλες τις υπηρεσίες σε μία ενιαία εμπειρία.",
+      "ru": "Организация: Мы объединяем все услуги в единый удобный опыт."
+    },
+    {
+      "en": "Responsibility: We prioritize your safety, comfort, and satisfaction.",
+      "el": "Υπευθυνότητα: Δίνουμε προτεραιότητα στην ασφάλεια, την άνεση και την ικανοποίησή σας.",
+      "ru": "Ответственность: Мы ставим на первое место вашу безопасность, комфорт и удовлетворение."
+    },
+    {
+      "en": "Customer-Centric: Your needs drive our service improvements.",
+      "el": "Προσανατολισμός στον πελάτη: Οι ανάγκες σας καθοδηγούν τις βελτιώσεις των υπηρεσιών μας.",
+      "ru": "Ориентация на клиента: Ваши потребности определяют наши улучшения."
+    },
+    {
+      "en": "Transparency: Clear information, honest communication, no surprises.",
+      "el": "Διαφάνεια: Σαφείς πληροφορίες, ειλικρινής επικοινωνία, χωρίς εκπλήξεις.",
+      "ru": "Прозрачность: Чёткая информация, честное общение, никаких сюрпризов."
+    },
+    {
+      "en": "Innovation: We constantly improve to bring you modern solutions.",
+      "el": "Καινοτομία: Βελτιωνόμαστε συνεχώς για να σας προσφέρουμε σύγχρονες λύσεις.",
+      "ru": "Инновации: Мы постоянно совершенствуемся, предлагая современные решения."
+    }
+  ],
+  "outro": {
+    "en": "Whether you’re planning a vacation, looking for local experiences, or making lifestyle reservations, Welcome To Cyprus is here to help you enjoy every moment.",
+    "el": "Είτε σχεδιάζετε διακοπές, είτε αναζητάτε τοπικές εμπειρίες, είτε κάνετε κρατήσεις τρόπου ζωής, το Welcome To Cyprus είναι εδώ για να σας βοηθήσει να απολαύσετε κάθε στιγμή.",
+    "ru": "Планируете ли вы отпуск, ищете ли местные впечатления или делаете бронирования для комфортного отдыха — Welcome To Cyprus поможет вам наслаждаться каждым моментом."
+  }
+}
