@@ -3,6 +3,7 @@
     "id": 1,
     "slug": "aphrodite-i-cruises-trip-to-blue-lagoon-turtle-cove",
     "image": "/tours/tour-1.jpg",
+    "price": 80,
     "city": "Protaras",
     "translations": {
       "en": {
@@ -26,6 +27,7 @@
     "id": 2,
     "slug": "blue-lagoon-akamas-bus-boat-tour-water-slide-paphos",
     "image": "/tours/tour-2.jpg",
+    "price": 70,
     "city": "Paphos",
     "translations": {
       "en": {
@@ -49,6 +51,7 @@
     "id": 3,
     "slug": "glass-bottom-boat-dolphin-cruise-blue-lagoon-turtle-cove",
     "image": "/tours/tour-3.jpg",
+    "price": 90,
     "city": "Protaras",
     "translations": {
       "en": {
@@ -72,6 +75,7 @@
     "id": 4,
     "slug": "cpt-marko-blue-lagoon-turtle-cruise",
     "image": "/tours/tour-4.jpg",
+    "price": 60,
     "city": "Ayia Napa",
     "translations": {
       "en": {
@@ -95,6 +99,7 @@
     "id": 5,
     "slug": "aphrodite-ii-lazy-day-cruise-blue-lagoon-turtle-cove-lunch",
     "image": "/tours/tour-5.jpg",
+    "price": 75,
     "city": "Ayia Napa",
     "translations": {
       "en": {
@@ -118,6 +123,7 @@
     "id": 6,
     "slug": "dream-luxury-yacht-protaras",
     "image": "/tours/tour-6.jpg",
+    "price": 80,
     "city": "Protaras",
     "translations": {
       "en": {
@@ -141,6 +147,7 @@
     "id": 7,
     "slug": "atlantis-turtle-cruise-snorkelling-paphos",
     "image": "/tours/tour-7.jpg",
+    "price": 90,
     "city": "Paphos",
     "translations": {
       "en": {
@@ -164,6 +171,7 @@
     "id": 8,
     "slug": "private-diving-zenobia-wreck-larnaka",
     "image": "/tours/tour-8.jpg",
+    "price": 85,
     "city": "Larnaca",
     "translations": {
       "en": {
@@ -187,6 +195,7 @@
     "id": 9,
     "slug": "larnaca-highlights-lefkara-nicosia-tour-from-paphos",
     "image": "/tours/tour-9.jpg",
+    "price": 80,
     "city": "Paphos",
     "translations": {
       "en": {
@@ -210,6 +219,7 @@
     "id": 10,
     "slug": "paphos-aphrodite-waterpark-entrance-ticket",
     "image": "/tours/tour-10.jpg",
+    "price": 80,
     "city": "Paphos",
     "translations": {
       "en": {
@@ -233,6 +243,7 @@
     "id": 11,
     "slug": "cape-greco-blue-lagoon-ayia-napa-tour",
     "image": "/tours/tour-11.jpg",
+    "price": 80,
     "city": "Ayia Napa",
     "translations": {
       "en": {
@@ -256,6 +267,7 @@
     "id": 12,
     "slug": "yellow-submarine-swimming-cruise-unlimited-drinks",
     "image": "/tours/tour-12.jpg",
+    "price": 80,
     "city": "Larnaca",
     "translations": {
       "en": {
@@ -279,6 +291,7 @@
     "id": 13,
     "slug": "fun-fishing-relaxing-cruise-larnaca-bay",
     "image": "/tours/tour-13.jpg",
+    "price": 80,
     "city": "Larnaca",
     "translations": {
       "en": {
@@ -302,6 +315,7 @@
     "id": 14,
     "slug": "limassol-cruise-terminal-traditional-modern-cyprus-tour",
     "image": "/tours/tour-14.jpg",
+    "price": 80,
     "city": "Limassol",
     "translations": {
       "en": {
@@ -325,6 +339,7 @@
     "id": 15,
     "slug": "full-day-family-catamaran-cruise-limassol-lunch",
     "image": "/tours/tour-15.jpg",
+    "price": 80,
     "city": "Limassol",
     "translations": {
       "en": {
@@ -348,6 +363,7 @@
     "id": 16,
     "slug": "best-troodos-mountains-villages-tour-limassol",
     "image": "/tours/tour-16.jpg",
+    "price": 80,
     "city": "Limassol",
     "translations": {
       "en": {
@@ -371,6 +387,7 @@
     "id": 17,
     "slug": "3-hour-nicosia-segway-tour",
     "image": "/tours/tour-17.jpg",
+    "price": 80,
     "city": "Nicosia",
     "translations": {
       "en": {
@@ -394,6 +411,7 @@
     "id": 18,
     "slug": "explore-lefkara-nicosia",
     "image": "/tours/tour-18.jpg",
+    "price": 80,
     "city": "Nicosia",
     "translations": {
       "en": {
@@ -417,6 +435,7 @@
     "id": 19,
     "slug": "private-photo-session-local-photographer-protaras",
     "image": "/tours/tour-19.jpg",
+    "price": 80,
     "city": "Protaras",
     "translations": {
       "en": {
@@ -440,6 +459,7 @@
     "id": 20,
     "slug": "ayia-napa-premium-catamaran-cruise-blue-lagoon-lunch",
     "image": "/tours/tour-20.jpg",
+    "price": 80,
     "city": "Ayia Napa",
     "translations": {
       "en": {
@@ -463,6 +483,7 @@
     "id": 21,
     "slug": "meet-the-locals-troodos-mountains",
     "image": "/tours/tour-21.jpg",
+    "price": 80,
     "city": "Larnaca",
     "translations": {
       "en": {
