@@ -5,7 +5,7 @@
     "image": "/tours/tour-1.jpg",
     "price": 25,
     "city": "Protaras",
-    "translations": {
+    "translations":  {
       "en": {
         "name": "'Aphrodite I Cruises' trip to Blue Lagoon & Turtle Cove",
         "shortDescription": "Aphrodite Cruises offers a Protaras trip to Blue Lagoon and Turtle Cove with swimming and views.",
