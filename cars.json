@@ -3,6 +3,7 @@
     "id": 1,
     "slug": "toyota-corolla-2023",
     "image": "/cars/car-1.jpg",
+    "price": 120,
     "brand": "Toyota",
     "translations": {
       "en": {
@@ -26,6 +27,7 @@
     "id": 2,
     "slug": "bmw-x3-2025",
     "image": "/cars/car-2.jpg",
+    "price": 110,
     "brand": "BMW",
     "translations": {
       "en": {
@@ -49,6 +51,7 @@
     "id": 3,
     "slug": "nissan-juke-2024",
     "image": "/cars/car-3.jpg",
+    "price": 95,
     "brand": "Nissan",
     "translations": {
       "en": {
@@ -72,6 +75,7 @@
     "id": 4,
     "slug": "kia-sportage-2023",
     "image": "/cars/car-4.jpg",
+    "price": 120,
     "brand": "Kia",
     "translations": {
       "en": {
@@ -95,6 +99,7 @@
     "id": 5,
     "slug": "audi-a3-2024",
     "image": "/cars/car-5.jpg",
+    "price": 120,
     "brand": "Audi",
     "translations": {
       "en": {
@@ -118,6 +123,7 @@
     "id": 6,
     "slug": "toyota-yaris-2023",
     "image": "/cars/car-6.jpg",
+    "price": 120,
     "brand": "Toyota",
     "translations": {
       "en": {
@@ -141,6 +147,7 @@
     "id": 7,
     "slug": "bmw-5-series-2025",
     "image": "/cars/car-7.jpg",
+    "price": 120,
     "brand": "BMW",
     "translations": {
       "en": {
@@ -164,6 +171,7 @@
     "id": 8,
     "slug": "audi-q7-2024",
     "image": "/cars/car-8.jpg",
+    "price": 120,
     "brand": "Audi",
     "translations": {
       "en": {
@@ -187,6 +195,7 @@
     "id": 9,
     "slug": "kia-rio-2023",
     "image": "/cars/car-9.jpg",
+    "price": 120,
     "brand": "Kia",
     "translations": {
       "en": {
@@ -210,6 +219,7 @@
     "id": 10,
     "slug": "nissan-x-trail-2024",
     "image": "/cars/car-10.jpg",
+    "price": 120,
     "brand": "Nissan",
     "translations": {
       "en": {
@@ -233,6 +243,7 @@
     "id": 11,
     "slug": "mercedes-benz-c-class-2024",
     "image": "/cars/car-11.jpg",
+    "price": 120,
     "brand": "Mercedes-Benz",
     "translations": {
       "en": {
@@ -256,6 +267,7 @@
     "id": 12,
     "slug": "hyundai-tucson-2024",
     "image": "/cars/car-12.jpg",
+    "price": 120,
     "brand": "Hyundai",
     "translations": {
       "en": {
@@ -279,6 +291,7 @@
     "id": 13,
     "slug": "peugeot-208-2024",
     "image": "/cars/car-13.jpg",
+    "price": 120,
     "brand": "Peugeot",
     "translations": {
       "en": {
@@ -302,6 +315,7 @@
     "id": 14,
     "slug": "volkswagen-tiguan-2025",
     "image": "/cars/car-14.jpg",
+    "price": 120,
     "brand": "Volkswagen",
     "translations": {
       "en": {
@@ -325,6 +339,7 @@
     "id": 15,
     "slug": "honda-civic-2024",
     "image": "/cars/car-15.jpg",
+    "price": 120,
     "brand": "Honda",
     "translations": {
       "en": {
@@ -348,6 +363,7 @@
     "id": 16,
     "slug": "skoda-kodiaq-2024",
     "image": "/cars/car-16.jpg",
+    "price": 120,
     "brand": "Škoda",
     "translations": {
       "en": {
@@ -371,6 +387,7 @@
     "id": 17,
     "slug": "ford-focus-2023",
     "image": "/cars/car-17.jpg",
+    "price": 120,
     "brand": "Ford",
     "translations": {
       "en": {
@@ -394,6 +411,7 @@
     "id": 18,
     "slug": "mazda-cx-5-2024",
     "image": "/cars/car-18.jpg",
+    "price": 120,
     "brand": "Mazda",
     "translations": {
       "en": {
@@ -417,6 +435,7 @@
     "id": 19,
     "slug": "renault-clio-2024",
     "image": "/cars/car-19.jpg",
+    "price": 120,
     "brand": "Renault",
     "translations": {
       "en": {
@@ -440,6 +459,7 @@
     "id": 20,
     "slug": "jeep-compass-2024",
     "image": "/cars/car-20.jpg",
+    "price": 120,
     "brand": "Jeep",
     "translations": {
       "en": {
@@ -463,6 +483,7 @@
   "id": 21,
   "slug": "volvo-xc60-2025",
   "image": "/cars/car-21.jpg",
+  "price": 120,
   "brand": "Volvo",
   "translations": {
     "en": {
