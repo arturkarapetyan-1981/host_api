@@ -8,17 +8,35 @@
       "en": {
         "name": "Pier One",
         "shortDescription": "Pier One Limassol: Waterfront Dining & Vibrant Atmosphere",
-        "description": "Pier One Limassol is a chic seafront restaurant at the Old Port, offering Mediterranean cuisine, sushi, and signature cocktails. With stunning marina views, live DJ nights, and a vibrant atmosphere, it’s ideal for brunch, lunch, or evening drinks by the sea in a stylish and lively setting."
+        "description": "Pier One Limassol is a chic seafront restaurant at the Old Port, offering Mediterranean cuisine, sushi, and signature cocktails. With stunning marina views, live DJ nights, and a vibrant atmosphere, it’s ideal for brunch, lunch, or evening drinks by the sea in a stylish and lively setting.",
+        "tables": [
+        { "type": "Two-seater", "location": "Corner", "count": 6 },
+        { "type": "Four-seater", "location": "Middle", "count": 8 },
+        { "type": "Six-seater", "location": "Corner", "count": 3 },
+        { "type": "Ten-seater", "location": "Middle", "count": 2 }
+      ]
       },
       "gr": {
         "name": "Πιερ Ουάν",
         "shortDescription": "Πιερ Ουάν Λεμεσός: Παραθαλάσσιο Δείπνο & Ζωντανή Ατμόσφαιρα",
-        "description": "Το Πιερ Ουάν στη Λεμεσό είναι ένα κομψό παραθαλάσσιο εστιατόριο στο Παλιό Λιμάνι, που προσφέρει μεσογειακή κουζίνα, σούσι και μοναδικά κοκτέιλ. Με εκπληκτική θέα στη μαρίνα, βραδιές με DJ και ζωντανή ατμόσφαιρα, είναι ιδανικό για brunch, μεσημεριανό ή βραδινό ποτό δίπλα στη θάλασσα σε ένα στυλάτο και ζωηρό περιβάλλον."
+        "description": "Το Πιερ Ουάν στη Λεμεσό είναι ένα κομψό παραθαλάσσιο εστιατόριο στο Παλιό Λιμάνι, που προσφέρει μεσογειακή κουζίνα, σούσι και μοναδικά κοκτέιλ. Με εκπληκτική θέα στη μαρίνα, βραδιές με DJ και ζωντανή ατμόσφαιρα, είναι ιδανικό για brunch, μεσημεριανό ή βραδινό ποτό δίπλα στη θάλασσα σε ένα στυλάτο και ζωηρό περιβάλλον.",
+        "tables": [
+        { "type": "Διθέσιο", "location": "Γωνία", "count": 6 },
+        { "type": "Τετραθέσιο", "location": "Μέση", "count": 8 },
+        { "type": "Εξαθέσιο", "location": "Γωνία", "count": 3 },
+        { "type": "Δεκαθέσιο", "location": "Μέση", "count": 2 }
+      ]
       },
       "ru": {
         "name": "Пир Уан",
         "shortDescription": "Пир Уан Лимассол: Ужин у моря и живая атмосфера",
-        "description": "Пир Уан в Лимассоле — это стильный прибрежный ресторан в Старом порту, предлагающий средиземноморскую кухню, суши и фирменные коктейли. С потрясающим видом на марину, живыми DJ-вечерами и яркой атмосферой, он идеально подходит для бранча, обеда или вечернего напитка у моря в стильной и оживлённой обстановке."
+        "description": "Пир Уан в Лимассоле — это стильный прибрежный ресторан в Старом порту, предлагающий средиземноморскую кухню, суши и фирменные коктейли. С потрясающим видом на марину, живыми DJ-вечерами и яркой атмосферой, он идеально подходит для бранча, обеда или вечернего напитка у моря в стильной и оживлённой обстановке.",
+        "tables": [
+        { "type": "На двоих", "location": "В углу", "count": 6 },
+        { "type": "На четверых", "location": "По центру", "count": 8 },
+        { "type": "На шестерых", "location": "В углу", "count": 3 },
+        { "type": "На десятерых", "location": "По центру", "count": 2 }
+      ]
       }
     }
   },
