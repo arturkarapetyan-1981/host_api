@@ -299,27 +299,28 @@
     }
   },
   {
-    "id": 14,
-    "slug": "jayanta-indian-restaurant-paphos",
-    "image": "/restaurants/rest-14.jpg",
-    "city": "Paphos",
-    "translations": {
-      "en": {
-        "name": "Jayanta Indian Restaurant",
-        "shortDescription": "Jayanta Indian Restaurant – Authentic Indian Cuisine in Paphos",
-        "description": "Jayanta Indian Restaurant in Paphos delivers a true taste of India with its rich, flavorful curries, tandoori dishes, and freshly baked naan. Known for its warm hospitality and vibrant atmosphere, it’s the perfect place to enjoy traditional Indian recipes crafted with aromatic spices and the finest ingredients."
-      "gr": {
-        "name": "Εστιατόριο Jayanta Indian",
-        "shortDescription": "Jayanta Ινδικό Εστιατόριο – Αυθεντική Ινδική Κουζίνα στην Πάφο",
-        "description": "Το Jayanta Ινδικό Εστιατόριο στην Πάφο προσφέρει την αυθεντική γεύση της Ινδίας με πλούσια και αρωματικά κάρυ, πιάτα ταντούρι και φρεσκοψημένο naan. Γνωστό για τη ζεστή φιλοξενία και τη ζωντανή ατμόσφαιρα, είναι το ιδανικό μέρος για να απολαύσετε παραδοσιακές ινδικές συνταγές φτιαγμένες με αρωματικά μπαχαρικά και εκλεκτά υλικά."
-      },
-      "ru": {
-        "name": "Ресторан Jayanta Indian",
-        "shortDescription": "Индийский ресторан Jayanta — аутентичная индийская кухня в Пафосе",
-        "description": "Индийский ресторан Jayanta в Пафосе передаёт настоящий вкус Индии с его насыщенными и ароматными карри, блюдами тандури и свежевыпеченным нааном. Известный тёплым гостеприимством и живой атмосферой, это идеальное место, чтобы насладиться традиционными индийскими рецептами, приготовленными с использованием ароматных специй и лучших ингредиентов."
-      }
+  "id": 14,
+  "slug": "jayanta-indian-restaurant-paphos",
+  "image": "/restaurants/rest-14.jpg",
+  "city": "Paphos",
+  "translations": {
+    "en": {
+      "name": "Jayanta Indian Restaurant",
+      "shortDescription": "Jayanta Indian Restaurant – Authentic Indian Cuisine in Paphos",
+      "description": "Jayanta Indian Restaurant in Paphos delivers a true taste of India with its rich, flavorful curries, tandoori dishes, and freshly baked naan. Known for its warm hospitality and vibrant atmosphere, it’s the perfect place to enjoy traditional Indian recipes crafted with aromatic spices and the finest ingredients."
+    },
+    "gr": {
+      "name": "Εστιατόριο Jayanta Indian",
+      "shortDescription": "Jayanta Ινδικό Εστιατόριο – Αυθεντική Ινδική Κουζίνα στην Πάφο",
+      "description": "Το Jayanta Ινδικό Εστιατόριο στην Πάφο προσφέρει την αυθεντική γεύση της Ινδίας με πλούσια και αρωματικά κάρυ, πιάτα ταντούρι και φρεσκοψημένο naan. Γνωστό για τη ζεστή φιλοξενία και τη ζωντανή ατμόσφαιρα, είναι το ιδανικό μέρος για να απολαύσετε παραδοσιακές ινδικές συνταγές φτιαγμένες με αρωματικά μπαχαρικά και εκλεκτά υλικά."
+    },
+    "ru": {
+      "name": "Ресторан Jayanta Indian",
+      "shortDescription": "Индийский ресторан Jayanta — аутентичная индийская кухня в Пафосе",
+      "description": "Индийский ресторан Jayanta в Пафосе передаёт настоящий вкус Индии с его насыщенными и ароматными карри, блюдами тандури и свежевыпеченным нааном. Известный тёплым гостеприимством и живой атмосферой, это идеальное место, чтобы насладиться традиционными индийскими рецептами, приготовленными с использованием ароматных специй и лучших ингредиентов."
     }
-  },
+  }
+},
   {
     "id": 15,
     "slug": "kings-restaurant-paphos",
