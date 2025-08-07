@@ -1,13 +1,8 @@
 {
   "heading": {
-    "en": "About Us",
-    "el": "Σχετικά με εμάς",
-    "ru": "О нас"
-  },
-  "intro": {
-    "en": "Welcome to Welcome To Cyprus, founded in 2024 to make travel and lifestyle services easier and more accessible in Cyprus. Our platform helps you book flights, hotels, cars, and much more — all in one place.",
-    "el": "Καλώς ήρθατε στο Welcome To Cyprus, που ιδρύθηκε το 2024 για να κάνει τις ταξιδιωτικές και τις υπηρεσίες τρόπου ζωής πιο εύκολες και προσιτές στην Κύπρο. Η πλατφόρμα μας σας βοηθά να κλείσετε πτήσεις, ξενοδοχεία, αυτοκίνητα και πολλά άλλα — όλα σε ένα μέρος.",
-    "ru": "Добро пожаловать в Welcome To Cyprus, основанный в 2024 году, чтобы сделать туристические и сервисы для образа жизни проще и доступнее на Кипре. Наша платформа помогает вам бронировать авиабилеты, отели, автомобили и многое другое — всё в одном месте."
+    "en": "Our Services",
+    "el": "Οι Υπηρεσίες μας",
+    "ru": "Наши Услуги"
   },
   "services": [
     {
