@@ -1,8 +1,25 @@
 {
- {
-    "en": "Launched in December 2025, our platform was designed to simplify access to tourism services for both travelers and locals. With intuitive navigation, multilingual support, and a mobile-friendly experience, we make it easy to explore, book, and enjoy the beauty of Cyprus. Whether you're planning your dream vacation or just a weekend escape, we are here to assist every step of the way.",
-    "el": "Η πλατφόρμα μας, η οποία ξεκίνησε τον Δεκέμβριο του 2025, δημιουργήθηκε για να διευκολύνει την πρόσβαση σε τουριστικές υπηρεσίες για ταξιδιώτες και ντόπιους. Με φιλική πλοήγηση, υποστήριξη πολλών γλωσσών και εμπειρία για κινητά, σας βοηθάμε να εξερευνήσετε και να απολαύσετε την Κύπρο. Είτε σχεδιάζετε διακοπές είτε μια σύντομη απόδραση, είμαστε εδώ για εσάς.",
-    "ru": "Наш сайт был запущен в декабре 2025 года с целью упростить доступ к туристическим услугам для путешественников и местных жителей. Удобная навигация, поддержка нескольких языков и адаптивность под мобильные устройства позволяют легко планировать отдых и открывать для себя красоты Кипра. Мы всегда рядом, чтобы помочь вам в каждом этапе путешествия."
-  }
+  "title": {
+    "en": "About Us",
+    "el": "Σχετικά με εμάς",
+    "ru": "О нас"
+  },
+  "summary": {
+    "en": "We are a Cyprus tourism platform offering hotels, tours, car rentals and more. Founded in 2024, active since 2025.",
+    "el": "Είμαστε μια πλατφόρμα τουρισμού στην Κύπρο που προσφέρει ξενοδοχεία, εκδρομές, ενοικιάσεις αυτοκινήτων και άλλα. Ιδρύθηκε το 2024, δραστηριοποιείται από το 2025.",
+    "ru": "Мы — туристическая платформа Кипра, предлагаем отели, туры, аренду авто и многое другое. Основаны в 2024, активны с 2025."
+  },
+  "mission": {
+    "en": "To improve Cyprus' service sector and make tourist services easier to use for visitors and residents.",
+    "el": "Να βελτιώσουμε τον τομέα υπηρεσιών της Κύπρου και να κάνουμε τις τουριστικές υπηρεσίες πιο προσβάσιμες για επισκέπτες και κατοίκους.",
+    "ru": "Улучшить сферу услуг на Кипре и сделать туристические сервисы удобнее для гостей и жителей."
+  },
+  "services": [
+    { "id": "hotels", "label": { "en": "Hotel Reservations", "el": "Κρατήσεις Ξενοδοχείων", "ru": "Бронирование отелей" } },
+    { "id": "tours", "label": { "en": "Tour Packages", "el": "Πακέτα Περιηγήσεων", "ru": "Турпакеты" } },
+    { "id": "cars", "label": { "en": "Car Rental", "el": "Ενοικιάσεις Αυτοκινήτων", "ru": "Аренда авто" } },
+    { "id": "salons", "label": { "en": "Beauty Salon", "el": "Ινστιτούτο Ομορφιάς", "ru": "Салон красоты" } },
+    { "id": "restaurants", "label": { "en": "Restaurant Booking", "el": "Κρατήσεις Εστιατορίων", "ru": "Бронирование столиков" } }
+  ]
 }
 
