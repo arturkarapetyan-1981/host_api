@@ -1,63 +1,34 @@
 {
-  "title": {
-    "en": "About Us",
-    "gr": "Σχετικά με εμάς",
-    "ru": "О нас"
+  "en": {
+    "title": "About Us",
+    "subtitle": "Discover better service in Cyprus",
+    "paragraphs": [
+      "Our platform was founded in 2024 and began active operations in 2025. We provide hotel room reservations, tour package reservations, travel agent rental, beauty salon reservations, restaurant table reservations, and car rental — all in one place.",
+      "Our goal is to improve the service sector in Cyprus and make it more convenient for tourists and residents. We partner with local businesses to provide reliable listings, instant booking and transparent pricing."
+    ],
+    "founded": "Founded in 2024 — active since 2025",
+    "mission": "Make the service sector in Cyprus more convenient and accessible"
   },
-  "summary": {
-    "en": "Our Cyprus tourism website offers hotel reservations, tour packages, tour agent rentals, beauty salon bookings, restaurant table reservations and car rentals. Founded in 2024 and active since 2025, our aim is to improve the service sector in Cyprus and make services more convenient for tourists and residents.",
-    "gr": "Η τουριστική μας ιστοσελίδα στην Κύπρο προσφέρει κρατήσεις ξενοδοχείων, πακέτα εκδρομών, ενοικιάσεις πρακτόρων, ραντεβού σε κέντρα ομορφιάς, κρατήσεις τραπεζιών σε εστιατόρια και ενοικιάσεις αυτοκινήτων. Ιδρύθηκε το 2024 και λειτουργεί ενεργά από το 2025. Στόχος μας να βελτιώσουμε τον τομέα υπηρεσιών στην Κύπρο και να κάνουμε τις υπηρεσίες πιο βολικές για τουρίστες και κατοίκους.",
-    "ru": "Наш туристический сайт на Кипре предлагает бронирование отелей, туристические пакеты, аренду туроператоров, запись в салоны красоты, бронирование столиков в ресторанах и аренду автомобилей. Основан в 2024 и активно работает с 2025 года. Наша цель — улучшить сферу услуг на Кипре и сделать сервисы более удобными для туристов и жителей."
+  "gr": {
+    "title": "Σχετικά με εμάς",
+    "subtitle": "Ανακαλύψτε καλύτερη εξυπηρέτηση στην Κύπρο",
+    "paragraphs": [
+      "Η πλατφόρμα μας ιδρύθηκε το 2024 και ξεκίνησε ενεργά το 2025. Προσφέρουμε κρατήσεις δωματίων ξενοδοχείων, πακέτα εκδρομών, ενοικίαση ταξιδιωτικού πράκτορα, κρατήσεις κομμωτηρίου, κρατήσεις τραπεζιών εστιατορίου και ενοικίαση αυτοκινήτων — όλα σε ένα μέρος.",
+      "Στόχος μας είναι να βελτιώσουμε τον τομέα υπηρεσιών στην Κύπρο και να κάνουμε τη ζωή πιο εύκολη για τουρίστες και κατοίκους. Συνεργαζόμαστε με τοπικές επιχειρήσεις για αξιόπιστες καταχωρίσεις, άμεσες κρατήσεις και διαφανείς τιμές."
+    ],
+    "founded": "Ιδρύθηκε το 2024 — ενεργό από 2025",
+    "mission": "Κάνουμε τον τομέα υπηρεσιών στην Κύπρο πιο βολικό και προσβάσιμο"
   },
-  "mission": {
-    "en": "To improve Cyprus' service sector and make tourist services easier to use for visitors and residents.",
-    "gr": "Να βελτιώσουμε τον τομέα υπηρεσιών της Κύπρου και να κάνουμε τις τουριστικές υπηρεσίες πιο εύχρηστες για επισκέπτες και κατοίκους.",
-    "ru": "Улучшить сферу услуг на Кипре и сделать туристические сервисы более удобными для гостей и жителей."
-  },
-  "services": [
-    {
-      "id": "hotels",
-      "label": {
-        "en": "Hotel Reservations",
-        "gr": "Κρατήσεις Ξενοδοχείων",
-        "ru": "Бронирование отелей"
-      }
-    },
-    {
-      "id": "tours",
-      "label": {
-        "en": "Tour Packages",
-        "gr": "Πακέτα Περιηγήσεων",
-        "ru": "Турпакеты"
-      }
-    },
-    {
-      "id": "cars",
-      "label": {
-        "en": "Car Rental",
-        "gr": "Ενοικιάσεις Αυτοκινήτων",
-        "ru": "Аренда авто"
-      }
-    },
-    {
-      "id": "salons",
-      "label": {
-        "en": "Beauty Salon",
-        "gr": "Ινστιτούτο Ομορφιάς",
-        "ru": "Салон красоты"
-      }
-    },
-    {
-      "id": "restaurants",
-      "label": {
-        "en": "Restaurant Booking",
-        "gr": "Κρατήσεις Εστιατορίων",
-        "ru": "Бронирование столиков"
-      }
-    }
-  ],
-  "founded": "2024",
-  "activeSince": "2025"
+  "ru": {
+    "title": "О нас",
+    "subtitle": "Улучшение сервиса на Кипре",
+    "paragraphs": [
+      "Наша платформа была основана в 2024 году и начала активные операции в 2025 году. Мы предоставляем бронирование номеров в отелях, турпакетов, аренду туристического агента, бронирования салонов красоты, бронирование столиков в ресторанах и аренду автомобилей — всё в одном месте.",
+      "Наша цель — улучшить сектор услуг на Кипре и сделать его более удобным для туристов и жителей. Мы сотрудничаем с местными компаниями, чтобы обеспечить надёжные объявления, мгновенное бронирование и прозрачные цены."
+    ],
+    "founded": "Основано в 2024 — активно с 2025",
+    "mission": "Сделать сектор услуг на Кипре более удобным и доступным"
+  }
 }
 
 
