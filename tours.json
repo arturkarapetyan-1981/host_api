@@ -4,7 +4,12 @@
     "slug": "aphrodite-i-cruises-trip-to-blue-lagoon-turtle-cove",
     "image": "/tours/tour-1.jpg",
     "price": 25,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Protaras",
     "translations":  {
       "en": {
@@ -29,7 +34,12 @@
     "slug": "blue-lagoon-akamas-bus-boat-tour-water-slide-paphos",
     "image": "/tours/tour-2.jpg",
     "price": 30,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Paphos",
     "translations": {
       "en": {
@@ -54,7 +64,12 @@
     "slug": "glass-bottom-boat-dolphin-cruise-blue-lagoon-turtle-cove",
     "image": "/tours/tour-3.jpg",
     "price": 90,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Protaras",
     "translations": {
       "en": {
@@ -79,7 +94,12 @@
     "slug": "cpt-marko-blue-lagoon-turtle-cruise",
     "image": "/tours/tour-4.jpg",
     "price": 60,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Ayia Napa",
     "translations": {
       "en": {
@@ -104,7 +124,12 @@
     "slug": "aphrodite-ii-lazy-day-cruise-blue-lagoon-turtle-cove-lunch",
     "image": "/tours/tour-5.jpg",
     "price": 75,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Ayia Napa",
     "translations": {
       "en": {
@@ -129,7 +154,12 @@
     "slug": "dream-luxury-yacht-protaras",
     "image": "/tours/tour-6.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Protaras",
     "translations": {
       "en": {
@@ -154,7 +184,12 @@
     "slug": "atlantis-turtle-cruise-snorkelling-paphos",
     "image": "/tours/tour-7.jpg",
     "price": 90,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Paphos",
     "translations": {
       "en": {
@@ -179,7 +214,12 @@
     "slug": "private-diving-zenobia-wreck-larnaka",
     "image": "/tours/tour-8.jpg",
     "price": 85,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Larnaca",
     "translations": {
       "en": {
@@ -204,7 +244,12 @@
     "slug": "larnaca-highlights-lefkara-nicosia-tour-from-paphos",
     "image": "/tours/tour-9.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Paphos",
     "translations": {
       "en": {
@@ -229,7 +274,12 @@
     "slug": "paphos-aphrodite-waterpark-entrance-ticket",
     "image": "/tours/tour-10.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Paphos",
     "translations": {
       "en": {
@@ -254,7 +304,12 @@
     "slug": "cape-greco-blue-lagoon-ayia-napa-tour",
     "image": "/tours/tour-11.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Ayia Napa",
     "translations": {
       "en": {
@@ -279,7 +334,12 @@
     "slug": "yellow-submarine-swimming-cruise-unlimited-drinks",
     "image": "/tours/tour-12.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Larnaca",
     "translations": {
       "en": {
@@ -304,7 +364,12 @@
     "slug": "fun-fishing-relaxing-cruise-larnaca-bay",
     "image": "/tours/tour-13.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Larnaca",
     "translations": {
       "en": {
@@ -329,7 +394,12 @@
     "slug": "limassol-cruise-terminal-traditional-modern-cyprus-tour",
     "image": "/tours/tour-14.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Limassol",
     "translations": {
       "en": {
@@ -354,7 +424,12 @@
     "slug": "full-day-family-catamaran-cruise-limassol-lunch",
     "image": "/tours/tour-15.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Limassol",
     "translations": {
       "en": {
@@ -379,7 +454,12 @@
     "slug": "best-troodos-mountains-villages-tour-limassol",
     "image": "/tours/tour-16.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Limassol",
     "translations": {
       "en": {
@@ -404,7 +484,12 @@
     "slug": "3-hour-nicosia-segway-tour",
     "image": "/tours/tour-17.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Nicosia",
     "translations": {
       "en": {
@@ -429,7 +514,12 @@
     "slug": "explore-lefkara-nicosia",
     "image": "/tours/tour-18.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Nicosia",
     "translations": {
       "en": {
@@ -454,7 +544,12 @@
     "slug": "private-photo-session-local-photographer-protaras",
     "image": "/tours/tour-19.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Protaras",
     "translations": {
       "en": {
@@ -479,7 +574,12 @@
     "slug": "ayia-napa-premium-catamaran-cruise-blue-lagoon-lunch",
     "image": "/tours/tour-20.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Ayia Napa",
     "translations": {
       "en": {
@@ -504,7 +604,12 @@
     "slug": "meet-the-locals-troodos-mountains",
     "image": "/tours/tour-21.jpg",
     "price": 80,
-    "availableDates": ["2025-08-09", "2025-08-10", "2025-08-16", "2025-08-17", "2025-08-23", "2025-08-24"],
+     "availableDates": [
+      "2025-08-15 09:00",
+      "2025-08-15 14:00",
+      "2025-08-20 09:00",
+      "2025-08-20 14:00"
+    ],
     "city": "Larnaca",
     "translations": {
       "en": {
